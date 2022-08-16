@@ -1,0 +1,999 @@
+MatchDate,HomeTeam,AwayTeam,HomeTeamScore,AwayTeamScore,country,neutral,HomeTeamCode,AwayTeamCode,FifaRankingUpdateDate,HomeTeamRating,AwayTeamRating
+6/1/2019,Australia,Jordan,0,1,United Arab Emirates,TRUE,AUS,JOR,20/12/18,1436,1013
+7/1/2019,South Korea,Philippines,1,0,United Arab Emirates,TRUE,KOR,PHI,20/12/18,1405,889
+7/1/2019,Iran,Yemen,5,0,United Arab Emirates,TRUE,IRN,YEM,20/12/18,1481,576
+8/1/2019,Saudi Arabia,North Korea,4,0,United Arab Emirates,TRUE,KSA,PRK,20/12/18,1335,663
+9/1/2019,Qatar,Lebanon,2,0,United Arab Emirates,TRUE,QAT,LBN,20/12/18,1258,872
+9/1/2019,Japan,Turkmenistan,3,2,United Arab Emirates,TRUE,JPN,TKM,20/12/18,1414,1060
+11/1/2019,Palestine,Australia,0,3,United Arab Emirates,TRUE,PLE,AUS,20/12/18,1236,721
+12/1/2019,Vietnam,Iran,0,2,United Arab Emirates,TRUE,VIE,IRN,20/12/18,1229,1034
+12/1/2019,Lebanon,Saudi Arabia,0,2,United Arab Emirates,TRUE,LBN,KSA,20/12/18,1296,711
+13/01/19,North Korea,Qatar,0,6,United Arab Emirates,TRUE,PRK,QAT,20/12/18,1196,1095
+13/01/19,Oman,Japan,0,1,United Arab Emirates,TRUE,OMA,JPN,20/12/18,1295,1619
+15/01/19,Australia,Syria,3,2,United Arab Emirates,TRUE,AUS,SYR,20/12/18,1436,1226
+16/01/19,South Korea,China PR,2,0,United Arab Emirates,TRUE,KOR,CHN,20/12/18,1405,914
+16/01/19,Iran,Iraq,0,0,United Arab Emirates,TRUE,IRN,IRQ,20/12/18,1481,1001
+17/01/19,Saudi Arabia,Qatar,0,2,United Arab Emirates,TRUE,KSA,QAT,20/12/18,1335,748
+17/01/19,Japan,Uzbekistan,2,1,United Arab Emirates,TRUE,JPN,UZB,20/12/18,1414,843
+20/01/19,Iran,Oman,2,0,United Arab Emirates,TRUE,IRN,OMA,20/12/18,1481,920
+21/01/19,Australia,Uzbekistan,0,0,United Arab Emirates,TRUE,AUS,UZB,20/12/18,1436,1218
+21/01/19,Japan,Saudi Arabia,1,0,United Arab Emirates,TRUE,JPN,KSA,20/12/18,1414,473
+22/01/19,South Korea,Bahrain,2,1,United Arab Emirates,TRUE,KOR,BHR,20/12/18,1405,670
+22/01/19,Qatar,Iraq,1,0,United Arab Emirates,TRUE,QAT,IRQ,20/12/18,1258,510
+24/01/19,China PR,Iran,0,3,United Arab Emirates,TRUE,CHN,IRN,20/12/18,1317,256
+24/01/19,Vietnam,Japan,0,1,United Arab Emirates,TRUE,VIE,JPN,20/12/18,1229,998
+25/01/19,South Korea,Qatar,0,1,United Arab Emirates,TRUE,KOR,QAT,20/12/18,1405,998
+25/01/19,United Arab Emirates,Australia,1,0,United Arab Emirates,FALSE,UAE,AUS,20/12/18,1309,910
+27/01/19,United States,Panama,3,0,United States,FALSE,USA,PAN,20/12/18,1497,354
+28/01/19,Iran,Japan,0,3,United Arab Emirates,TRUE,IRN,JPN,20/12/18,1481,910
+29/01/19,United Arab Emirates,Qatar,0,4,United Arab Emirates,FALSE,UAE,QAT,20/12/18,1309,295
+1/2/2019,Japan,Qatar,1,3,United Arab Emirates,TRUE,JPN,QAT,20/12/18,1414,532
+2/2/2019,United States,Costa Rica,2,0,United States,FALSE,USA,CRC,20/12/18,1497,651
+20/03/19,Germany,Serbia,1,1,Germany,FALSE,GER,SRB,7/2/2019,1558,260
+20/03/19,Wales,Trinidad and Tobago,1,0,Wales,FALSE,WAL,TRI,7/2/2019,1525,651
+21/03/19,Kosovo,Denmark,2,2,Kosovo,FALSE,KOS,DEN,7/2/2019,1113,569
+21/03/19,United Arab Emirates,Saudi Arabia,2,1,United Arab Emirates,FALSE,UAE,KSA,7/2/2019,1355,300
+21/03/19,United States,Ecuador,1,0,United States,FALSE,USA,ECU,7/2/2019,1501,200
+21/03/19,Netherlands,Belarus,4,0,Netherlands,FALSE,NED,BLR,7/2/2019,1560,569
+21/03/19,Croatia,Azerbaijan,2,1,Croatia,FALSE,CRO,AZE,7/2/2019,1634,753
+21/03/19,Austria,Poland,0,1,Austria,FALSE,AUT,POL,7/2/2019,1509,389
+21/03/19,Belgium,Russia,3,1,Belgium,FALSE,BEL,RUS,7/2/2019,1727,651
+22/03/19,Argentina,Venezuela,1,3,Spain,TRUE,ARG,VEN,7/2/2019,1582,569
+22/03/19,Guatemala,Costa Rica,1,0,Guatemala,FALSE,GUA,CRC,7/2/2019,1061,651
+22/03/19,South Korea,Bolivia,1,0,South Korea,FALSE,KOR,BOL,7/2/2019,1451,112
+22/03/19,Mexico,Chile,3,1,United States,TRUE,MEX,CHI,7/2/2019,1540,522
+22/03/19,England,Czech Republic,5,0,England,FALSE,ENG,CZE,7/2/2019,1631,360
+22/03/19,Portugal,Ukraine,0,0,Portugal,FALSE,POR,UKR,7/2/2019,1614,605
+22/03/19,Moldova,France,1,4,Moldova,FALSE,MDA,FRA,7/2/2019,979,1106
+23/03/19,Brazil,Panama,1,1,Portugal,TRUE,BRA,PAN,7/2/2019,1676,1228
+23/03/19,Georgia,Switzerland,0,2,Georgia,FALSE,GEO,SUI,7/2/2019,1269,1197
+23/03/19,Spain,Norway,2,1,Spain,FALSE,ESP,NOR,7/2/2019,1591,1359
+23/03/19,Senegal,Madagascar,2,0,Senegal,FALSE,SEN,MAD,7/2/2019,1505,506
+23/03/19,Cameroon,Comoros,3,0,Cameroon,FALSE,CMR,COM,7/2/2019,1394,1026
+23/03/19,Ghana,Kenya,1,0,Ghana,FALSE,GHA,KEN,7/2/2019,1412,1047
+24/03/19,Netherlands,Germany,2,3,Netherlands,FALSE,NED,GER,7/2/2019,1560,740
+24/03/19,Wales,Slovakia,1,0,Wales,FALSE,WAL,SVK,7/2/2019,1525,1053
+24/03/19,Hungary,Croatia,2,1,Hungary,FALSE,HUN,CRO,7/2/2019,1412,609
+24/03/19,Poland,Latvia,2,0,Poland,FALSE,POL,LVA,7/2/2019,1518,687
+24/03/19,Cyprus,Belgium,0,2,Cyprus,FALSE,CYP,BEL,7/2/2019,1276,1489
+25/03/19,Saudi Arabia,Equatorial Guinea,3,2,Saudi Arabia,FALSE,KSA,EQG,7/2/2019,1344,872
+25/03/19,Montenegro,England,1,5,Montenegro,FALSE,MNE,ENG,7/2/2019,1427,451
+25/03/19,Portugal,Serbia,1,1,Portugal,FALSE,POR,SRB,7/2/2019,1614,694
+25/03/19,France,Iceland,4,0,France,FALSE,FRA,ISL,7/2/2019,1726,792
+26/03/19,Algeria,Tunisia,1,0,Algeria,FALSE,ALG,TUN,7/2/2019,1349,494
+26/03/19,Costa Rica,Jamaica,1,0,Costa Rica,FALSE,CRC,JAM,7/2/2019,1461,690
+26/03/19,Czech Republic,Brazil,1,3,Czech Republic,FALSE,CZE,BRA,7/2/2019,1435,554
+26/03/19,Ghana,Mauritania,3,1,Ghana,FALSE,GHA,MTN,7/2/2019,1412,1161
+26/03/19,Honduras,Ecuador,0,0,United States,TRUE,HON,ECU,7/2/2019,1369,964
+26/03/19,South Korea,Colombia,2,1,South Korea,FALSE,KOR,COL,7/2/2019,1451,931
+26/03/19,Morocco,Argentina,0,1,Morocco,FALSE,MAR,ARG,7/2/2019,1440,792
+26/03/19,Paraguay,Mexico,2,4,United States,TRUE,PAR,MEX,7/2/2019,1476,1106
+26/03/19,Senegal,Mali,2,1,Senegal,FALSE,SEN,MLI,7/2/2019,1505,494
+26/03/19,United States,Chile,1,1,United States,FALSE,USA,CHI,7/2/2019,1501,862
+26/03/19,Switzerland,Denmark,3,3,Switzerland,FALSE,SUI,DEN,7/2/2019,1599,1161
+26/03/19,Malta,Spain,0,2,Malta,FALSE,MLT,ESP,7/2/2019,926,1062
+1/6/2019,Venezuela,Ecuador,1,1,United States,TRUE,VEN,ECU,4/4/2019,1484,1489
+2/6/2019,France,Bolivia,2,0,France,FALSE,FRA,BOL,4/4/2019,1734,687
+5/6/2019,Brazil,Qatar,2,0,Brazil,FALSE,BRA,QAT,4/4/2019,1676,1053
+5/6/2019,Mexico,Venezuela,3,1,United States,TRUE,MEX,VEN,4/4/2019,1549,451
+5/6/2019,Peru,Costa Rica,1,0,Peru,FALSE,PER,CRC,4/4/2019,1516,1026
+5/6/2019,United States,Jamaica,0,1,United States,FALSE,USA,JAM,4/4/2019,1506,554
+5/6/2019,Portugal,Switzerland,3,1,Portugal,FALSE,POR,SUI,4/4/2019,1607,1002
+6/6/2019,Iran,Syria,5,0,Iran,FALSE,IRN,SYR,4/4/2019,1516,1185
+6/6/2019,England,Netherlands,1,3,Portugal,TRUE,ENG,NED,4/4/2019,1647,609
+7/6/2019,Ukraine,Serbia,5,0,Ukraine,FALSE,UKR,SRB,4/4/2019,1493,1359
+7/6/2019,Denmark,Republic of Ireland,1,1,Denmark,FALSE,DEN,IRL,4/4/2019,1586,605
+7/6/2019,Faroe Islands,Spain,1,4,Faroe Islands,FALSE,FRO,ESP,4/4/2019,1213,872
+7/6/2019,North Macedonia,Poland,0,1,North Macedonia,FALSE,MKD,POL,4/4/2019,1350,593
+7/6/2019,Argentina,Nicaragua,5,1,Argentina,FALSE,ARG,NCA,4/4/2019,1580,575
+7/6/2019,South Korea,Australia,1,0,South Korea,FALSE,KOR,AUS,4/4/2019,1462,445
+7/6/2019,Tunisia,Iraq,2,0,Tunisia,FALSE,TUN,IRQ,4/4/2019,1491,657
+7/6/2019,Uruguay,Panama,3,0,Uruguay,FALSE,URU,PAN,4/4/2019,1613,381
+8/6/2019,Belarus,Germany,0,2,Belarus,FALSE,BLR,GER,4/4/2019,1301,636
+8/6/2019,Croatia,Wales,2,1,Croatia,FALSE,CRO,WAL,4/4/2019,1621,711
+8/6/2019,Turkey,France,2,0,Turkey,FALSE,TUR,FRA,4/4/2019,1457,1012
+8/6/2019,Belgium,Kazakhstan,3,0,Belgium,FALSE,BEL,KAZ,4/4/2019,1737,462
+9/6/2019,Brazil,Honduras,7,0,Brazil,FALSE,BRA,HON,4/4/2019,1676,776
+9/6/2019,Cameroon,Zambia,2,1,Cameroon,FALSE,CMR,ZAM,4/4/2019,1399,931
+9/6/2019,Mexico,Ecuador,3,2,United States,TRUE,MEX,ECU,4/4/2019,1549,727
+9/6/2019,United States,Venezuela,0,3,United States,FALSE,USA,VEN,4/4/2019,1506,530
+9/6/2019,Switzerland,England,0,0,Portugal,TRUE,SUI,ENG,4/4/2019,1604,302
+9/6/2019,Portugal,Netherlands,1,0,Portugal,FALSE,POR,NED,4/4/2019,1607,735
+10/6/2019,Serbia,Lithuania,4,1,Serbia,FALSE,SRB,LTU,4/4/2019,1484,837
+10/6/2019,Denmark,Georgia,5,1,Denmark,FALSE,DEN,GEO,4/4/2019,1586,603
+10/6/2019,Spain,Sweden,3,0,Spain,FALSE,ESP,SWE,4/4/2019,1601,493
+10/6/2019,Poland,Israel,4,0,Poland,FALSE,POL,ISR,4/4/2019,1535,681
+11/6/2019,Germany,Estonia,8,0,Germany,FALSE,GER,EST,4/4/2019,1570,825
+11/6/2019,Hungary,Wales,1,0,Hungary,FALSE,HUN,WAL,4/4/2019,1419,947
+11/6/2019,Andorra,France,0,4,Andorra,FALSE,AND,FRA,4/4/2019,1099,1012
+11/6/2019,Belgium,Scotland,3,0,Belgium,FALSE,BEL,SCO,4/4/2019,1737,688
+11/6/2019,Croatia,Tunisia,1,2,Croatia,FALSE,CRO,TUN,4/4/2019,1621,700
+11/6/2019,South Korea,Iran,1,1,South Korea,FALSE,KOR,IRN,4/4/2019,1462,636
+12/6/2019,Morocco,Gambia,0,1,Morocco,FALSE,MAR,GAM,4/4/2019,1429,635
+14/06/19,Cameroon,Mali,1,1,Qatar,TRUE,CMR,MLI,4/4/2019,1399,735
+14/06/19,Brazil,Bolivia,3,0,Brazil,FALSE,BRA,BOL,4/4/2019,1676,1054
+15/06/19,Argentina,Colombia,0,2,Brazil,TRUE,ARG,COL,14/06/19,1582,1306
+15/06/19,Ghana,South Africa,0,0,United Arab Emirates,TRUE,GHA,RSA,14/06/19,1423,1544
+16/06/19,Paraguay,Qatar,2,2,Brazil,TRUE,PAR,QAT,14/06/19,1468,608
+16/06/19,Uruguay,Ecuador,4,0,Brazil,TRUE,URU,ECU,14/06/19,1615,1106
+16/06/19,Morocco,Zambia,2,3,Morocco,FALSE,MAR,ZAM,14/06/19,1429,1179
+16/06/19,Senegal,Nigeria,1,0,Egypt,TRUE,SEN,NGA,14/06/19,1515,1384
+17/06/19,Japan,Chile,0,4,Brazil,TRUE,JPN,CHI,14/06/19,1496,837
+17/06/19,Tunisia,Burundi,2,1,Tunisia,FALSE,TUN,BDI,14/06/19,1501,1146
+18/06/19,Brazil,Venezuela,0,0,Brazil,FALSE,BRA,VEN,14/06/19,1681,681
+19/06/19,Colombia,Qatar,1,0,Brazil,TRUE,COL,QAT,14/06/19,1580,714
+19/06/19,Argentina,Paraguay,1,1,Brazil,TRUE,ARG,PAR,14/06/19,1582,574
+20/06/19,Uruguay,Japan,2,2,Brazil,TRUE,URU,JPN,14/06/19,1615,635
+21/06/19,Ecuador,Chile,1,2,Brazil,TRUE,ECU,CHI,14/06/19,1375,636
+22/06/19,Brazil,Peru,5,0,Brazil,FALSE,BRA,PER,14/06/19,1681,858
+23/06/19,Senegal,Tanzania,2,0,Egypt,TRUE,SEN,TAN,14/06/19,1515,381
+23/06/19,Morocco,Namibia,1,0,Egypt,TRUE,MAR,NAM,14/06/19,1429,499
+23/06/19,Qatar,Argentina,0,2,Brazil,TRUE,QAT,ARG,14/06/19,1396,548
+24/06/19,Tunisia,Angola,1,1,Egypt,TRUE,TUN,ANG,14/06/19,1501,603
+24/06/19,Chile,Uruguay,0,1,Brazil,TRUE,CHI,URU,14/06/19,1561,465
+24/06/19,Ecuador,Japan,1,1,Brazil,TRUE,ECU,JPN,14/06/19,1375,838
+25/06/19,Cameroon,Guinea-Bissau,2,0,Egypt,TRUE,CMR,GNB,14/06/19,1404,521
+25/06/19,Ghana,Benin,2,2,Egypt,TRUE,GHA,BEN,14/06/19,1423,708
+27/06/19,Senegal,Algeria,0,1,Egypt,TRUE,SEN,ALG,14/06/19,1515,1135
+27/06/19,Brazil,Paraguay,0,0,Brazil,FALSE,BRA,PAR,14/06/19,1681,536
+28/06/19,Morocco,Ivory Coast,1,0,Egypt,TRUE,MAR,CIV,14/06/19,1429,989
+28/06/19,Tunisia,Mali,1,1,Egypt,TRUE,TUN,MLI,14/06/19,1501,1125
+28/06/19,Venezuela,Argentina,0,2,Brazil,TRUE,VEN,ARG,14/06/19,1485,718
+29/06/19,Cameroon,Ghana,0,0,Egypt,TRUE,CMR,GHA,14/06/19,1404,686
+29/06/19,Uruguay,Peru,0,0,Brazil,TRUE,URU,PER,14/06/19,1615,1126
+1/7/2019,Kenya,Senegal,0,3,Egypt,TRUE,KEN,SEN,14/06/19,1207,873
+1/7/2019,South Africa,Morocco,0,1,Egypt,TRUE,RSA,MAR,14/06/19,1335,1431
+2/7/2019,Mauritania,Tunisia,0,0,Egypt,TRUE,MTN,TUN,14/06/19,1210,838
+2/7/2019,Benin,Cameroon,0,0,Egypt,TRUE,BEN,CMR,14/06/19,1273,884
+2/7/2019,Guinea-Bissau,Ghana,0,2,Egypt,TRUE,GNB,GHA,14/06/19,1158,773
+2/7/2019,Brazil,Argentina,2,0,Brazil,FALSE,BRA,ARG,14/06/19,1681,239
+5/7/2019,Morocco,Benin,1,1,Egypt,TRUE,MAR,BEN,14/06/19,1429,465
+5/7/2019,Uganda,Senegal,0,1,Egypt,TRUE,UGA,SEN,14/06/19,1299,1018
+6/7/2019,Nigeria,Cameroon,3,2,Egypt,TRUE,NGA,CMR,14/06/19,1433,708
+6/7/2019,Argentina,Chile,2,1,Brazil,TRUE,ARG,CHI,14/06/19,1582,1126
+7/7/2019,Brazil,Peru,3,1,Brazil,FALSE,BRA,PER,14/06/19,1681,718
+8/7/2019,Ghana,Tunisia,1,1,Egypt,TRUE,GHA,TUN,14/06/19,1423,908
+10/7/2019,Senegal,Benin,1,0,Egypt,TRUE,SEN,BEN,14/06/19,1515,1051
+11/7/2019,Madagascar,Tunisia,0,3,Egypt,TRUE,MAD,TUN,14/06/19,1198,618
+14/07/19,Senegal,Tunisia,1,0,Egypt,TRUE,SEN,TUN,14/06/19,1515,751
+17/07/19,Tunisia,Nigeria,0,1,Egypt,TRUE,TUN,NGA,14/06/19,1501,989
+19/07/19,Senegal,Algeria,0,1,Egypt,TRUE,SEN,ALG,14/06/19,1515,1199
+28/07/19,Liberia,Senegal,1,0,Liberia,FALSE,LBR,SEN,25/07/19,1044,544
+3/8/2019,Senegal,Liberia,3,0,Senegal,FALSE,SEN,LBR,25/07/19,1550,571
+5/9/2019,Argentina,Chile,0,0,United States,TRUE,ARG,CHI,25/07/19,1610,1051
+5/9/2019,South Korea,Georgia,2,2,Turkey,TRUE,KOR,GEO,25/07/19,1467,521
+5/9/2019,Peru,Ecuador,0,1,United States,TRUE,PER,ECU,25/07/19,1552,838
+5/9/2019,Saudi Arabia,Mali,1,1,Saudi Arabia,FALSE,KSA,MLI,25/07/19,1342,649
+5/9/2019,Republic of Ireland,Switzerland,1,1,Republic of Ireland,FALSE,IRL,SUI,25/07/19,1489,686
+5/9/2019,Gibraltar,Denmark,0,6,Gibraltar,FALSE,GIB,DEN,25/07/19,893,465
+5/9/2019,Romania,Spain,1,2,Romania,FALSE,ROU,ESP,25/07/19,1497,1126
+5/9/2019,Qatar,Afghanistan,6,0,Qatar,FALSE,QAT,AFG,25/07/19,1375,718
+6/9/2019,Brazil,Colombia,2,2,United States,TRUE,BRA,COL,25/07/19,1726,1125
+6/9/2019,Costa Rica,Uruguay,1,2,Costa Rica,FALSE,CRC,URU,25/07/19,1445,945
+6/9/2019,Morocco,Burkina Faso,1,1,Morocco,FALSE,MAR,BFA,25/07/19,1461,884
+6/9/2019,Tunisia,Mauritania,1,0,Tunisia,FALSE,TUN,MTN,25/07/19,1496,908
+6/9/2019,United States,Mexico,0,3,United States,FALSE,USA,MEX,25/07/19,1548,1199
+6/9/2019,Germany,Netherlands,2,4,Germany,FALSE,GER,NED,25/07/19,1582,910
+6/9/2019,Wales,Azerbaijan,2,1,Wales,FALSE,WAL,AZE,25/07/19,1514,989
+6/9/2019,Slovakia,Croatia,0,4,Slovakia,FALSE,SVK,CRO,25/07/19,1491,880
+6/9/2019,Slovenia,Poland,2,0,Slovenia,FALSE,SVN,POL,25/07/19,1363,571
+6/9/2019,San Marino,Belgium,0,4,San Marino,FALSE,SMR,BEL,25/07/19,839,838
+7/9/2019,England,Bulgaria,4,0,England,FALSE,ENG,BUL,25/07/19,1652,986
+7/9/2019,Serbia,Portugal,2,4,Serbia,FALSE,SRB,POR,25/07/19,1477,1018
+7/9/2019,France,Albania,4,1,France,FALSE,FRA,ALB,25/07/19,1718,649
+8/9/2019,Switzerland,Gibraltar,4,0,Switzerland,FALSE,SUI,GIB,25/07/19,1605,686
+8/9/2019,Georgia,Denmark,0,0,Georgia,FALSE,GEO,DEN,25/07/19,1255,1274
+8/9/2019,Spain,Faroe Islands,4,0,Egypt,TRUE,ESP,FRO,25/07/19,1617,1125
+9/9/2019,Wales,Belarus,1,0,Wales,FALSE,WAL,BLR,25/07/19,1514,1198
+9/9/2019,Northern Ireland,Germany,0,2,Northern Ireland,FALSE,NIR,GER,25/07/19,1496,1241
+9/9/2019,Estonia,Netherlands,0,4,Estonia,FALSE,EST,NED,25/07/19,1228,945
+9/9/2019,Azerbaijan,Croatia,1,1,Azerbaijan,FALSE,AZE,CRO,25/07/19,1188,1558
+9/9/2019,Poland,Austria,0,0,Poland,FALSE,POL,AUT,25/07/19,1550,880
+9/9/2019,Scotland,Belgium,0,4,Scotland,FALSE,SCO,BEL,25/07/19,1433,1431
+10/9/2019,Argentina,Mexico,4,0,United States,TRUE,ARG,MEX,25/07/19,1610,884
+10/9/2019,Brazil,Peru,0,1,United States,TRUE,BRA,PER,25/07/19,1726,1183
+10/9/2019,Ecuador,Bolivia,3,0,Ecuador,FALSE,ECU,BOL,25/07/19,1359,986
+10/9/2019,Ivory Coast,Tunisia,2,1,France,TRUE,CIV,TUN,25/07/19,1394,910
+10/9/2019,Morocco,Niger,1,0,Morocco,FALSE,MAR,NIG,25/07/19,1461,1298
+10/9/2019,United States,Uruguay,1,1,United States,FALSE,USA,URU,25/07/19,1548,1241
+10/9/2019,England,Kosovo,5,3,England,FALSE,ENG,KOS,25/07/19,1652,1274
+10/9/2019,Luxembourg,Serbia,1,3,Luxembourg,FALSE,LUX,SRB,25/07/19,1265,1126
+10/9/2019,Lithuania,Portugal,1,5,Lithuania,FALSE,LTU,POR,25/07/19,1101,1051
+10/9/2019,France,Andorra,3,0,France,FALSE,FRA,AND,25/07/19,1718,2041
+10/9/2019,Kuwait,Australia,0,3,Kuwait,FALSE,KUW,AUS,25/07/19,1022,1816
+10/9/2019,Hong Kong,Iran,0,2,Hong Kong,FALSE,HKG,IRN,25/07/19,1074,2087
+10/9/2019,Yemen,Saudi Arabia,2,2,Bahrain,TRUE,YEM,KSA,25/07/19,1073,2099
+10/9/2019,Qatar,India,0,0,Qatar,FALSE,QAT,IND,25/07/19,1375,2164
+10/9/2019,Myanmar,Japan,0,2,Myanmar,FALSE,MYA,JPN,25/07/19,1084,2124
+10/9/2019,Turkmenistan,South Korea,0,2,Turkmenistan,FALSE,TKM,KOR,25/07/19,1091,2099
+21/09/19,Algeria,Morocco,0,0,Algeria,FALSE,ALG,MAR,19/09/19,1466,2036
+21/09/19,Tunisia,Libya,1,0,Tunisia,FALSE,TUN,LBY,19/09/19,1493,2124
+21/09/19,Senegal,Guinea,1,0,Senegal,FALSE,SEN,GUI,19/09/19,1546,2099
+22/09/19,Ghana,Burkina Faso,0,1,Ghana,FALSE,GHA,BFA,19/09/19,1429,2099
+2/10/2019,Mexico,Trinidad and Tobago,2,0,Mexico,FALSE,MEX,TRI,19/09/19,1603,2036
+9/10/2019,Germany,Argentina,2,2,Germany,FALSE,GER,ARG,19/09/19,1580,1580
+10/10/2019,Netherlands,Northern Ireland,3,1,Netherlands,FALSE,NED,NIR,19/09/19,1586,1726
+10/10/2019,Croatia,Hungary,3,0,Croatia,FALSE,CRO,HUN,19/09/19,1625,1484
+10/10/2019,Slovakia,Wales,1,1,Slovakia,FALSE,SVK,WAL,19/09/19,1493,1535
+10/10/2019,Latvia,Poland,0,3,Latvia,FALSE,LVA,POL,19/09/19,1075,1643
+10/10/2019,Belgium,San Marino,9,0,Belgium,FALSE,BEL,SMR,19/09/19,1752,1538
+10/10/2019,Brazil,Senegal,1,1,Singapore,TRUE,BRA,SEN,19/09/19,1719,1459
+10/10/2019,Serbia,Paraguay,1,0,Serbia,FALSE,SRB,PAR,19/09/19,1476,1064
+10/10/2019,Australia,Nepal,5,0,Australia,FALSE,AUS,NEP,19/09/19,1441,1400
+10/10/2019,Iran,Cambodia,14,0,Iran,FALSE,IRN,CAM,19/09/19,1522,1471
+10/10/2019,Saudi Arabia,Singapore,3,0,Saudi Arabia,FALSE,KSA,SGP,19/09/19,1336,1627
+10/10/2019,Bangladesh,Qatar,0,2,Bangladesh,FALSE,BAN,QAT,19/09/19,912,1320
+10/10/2019,Japan,Mongolia,6,0,Japan,FALSE,JPN,MNG,19/09/19,1490,1723
+10/10/2019,South Korea,Sri Lanka,8,0,South Korea,FALSE,KOR,SRI,19/09/19,1470,1657
+11/10/2019,Czech Republic,England,2,1,Czech Republic,FALSE,CZE,ENG,19/09/19,1441,1471
+11/10/2019,Portugal,Luxembourg,3,0,Portugal,FALSE,POR,LUX,19/09/19,1643,1580
+11/10/2019,Iceland,France,0,1,Iceland,FALSE,ISL,FRA,19/09/19,1461,1416
+11/10/2019,Morocco,Libya,1,1,Morocco,FALSE,MAR,LBY,19/09/19,1463,1540
+11/10/2019,Uruguay,Peru,1,0,Uruguay,FALSE,URU,PER,19/09/19,1639,1536
+12/10/2019,Denmark,Switzerland,1,0,Denmark,FALSE,DEN,SUI,19/09/19,1584,1535
+12/10/2019,Norway,Spain,1,1,Norway,FALSE,NOR,ESP,19/09/19,1435,1532
+12/10/2019,Tunisia,Cameroon,0,0,Tunisia,FALSE,TUN,CMR,19/09/19,1493,1490
+13/10/19,Belarus,Netherlands,1,2,Belarus,FALSE,BLR,NED,19/09/19,1294,1378
+13/10/19,Estonia,Germany,0,3,Estonia,FALSE,EST,GER,19/09/19,1212,1723
+13/10/19,Wales,Croatia,1,1,Wales,FALSE,WAL,CRO,19/09/19,1522,1643
+13/10/19,Poland,North Macedonia,2,0,Poland,FALSE,POL,MKD,19/09/19,1532,1574
+13/10/19,Kazakhstan,Belgium,0,2,Kazakhstan,FALSE,KAZ,BEL,19/09/19,1169,1064
+13/10/19,Brazil,Nigeria,1,1,Singapore,TRUE,BRA,NGA,19/09/19,1719,1597
+13/10/19,Ecuador,Argentina,1,6,Spain,TRUE,ECU,ARG,19/09/19,1370,1570
+14/10/19,Bulgaria,England,0,6,Bulgaria,FALSE,BUL,ENG,19/09/19,1377,1484
+14/10/19,Lithuania,Serbia,1,2,Lithuania,FALSE,LTU,SRB,19/09/19,1094,1230
+14/10/19,Ukraine,Portugal,2,1,Ukraine,FALSE,UKR,POR,19/09/19,1516,1560
+14/10/19,France,Turkey,1,1,France,FALSE,FRA,TUR,19/09/19,1725,1471
+15/10/19,Switzerland,Republic of Ireland,2,0,Switzerland,FALSE,SUI,IRL,19/09/19,1604,1332
+15/10/19,Sweden,Spain,1,1,Sweden,FALSE,SWE,ESP,19/09/19,1560,1606
+15/10/19,Denmark,Luxembourg,4,0,Denmark,FALSE,DEN,LUX,19/09/19,1584,1463
+15/10/19,Morocco,Gabon,2,3,Morocco,FALSE,MAR,GAB,19/09/19,1463,1272
+15/10/19,Peru,Uruguay,1,1,Peru,FALSE,PER,URU,19/09/19,1551,1461
+15/10/19,Taiwan,Australia,1,7,Taiwan,FALSE,TPE,AUS,19/09/19,1107,1460
+15/10/19,Bahrain,Iran,1,0,Bahrain,FALSE,BHR,IRN,19/09/19,1206,1567
+15/10/19,Palestine,Saudi Arabia,0,0,Palestine,FALSE,PLE,KSA,19/09/19,1223,1597
+15/10/19,Qatar,Oman,2,1,Qatar,FALSE,QAT,OMA,19/09/19,1377,1598
+15/10/19,Tajikistan,Japan,0,3,Tajikistan,FALSE,TJK,JPN,19/09/19,1174,1612
+15/10/19,North Korea,South Korea,0,0,North Korea,FALSE,PRK,KOR,19/09/19,1176,1632
+19/10/19,Morocco,Algeria,3,0,Morocco,FALSE,MAR,ALG,19/09/19,1463,1378
+20/10/19,Libya,Tunisia,1,2,Libya,FALSE,LBY,TUN,19/09/19,1212,1663
+20/10/19,Guinea,Senegal,1,0,Guinea,FALSE,GUI,SEN,19/09/19,1325,1129
+20/10/19,Burkina Faso,Ghana,0,0,Burkina Faso,FALSE,BFA,GHA,19/09/19,1381,1568
+13/11/19,Cameroon,Cape Verde,0,0,Cameroon,FALSE,CMR,CPV,24/10/19,1409,1581
+13/11/19,Senegal,Congo,2,0,Senegal,FALSE,SEN,CGO,24/10/19,1546,1526
+14/11/19,Ghana,South Africa,2,0,Ghana,FALSE,GHA,RSA,24/10/19,1426,1463
+14/11/19,England,Montenegro,7,0,England,FALSE,ENG,MNE,24/10/19,1651,1606
+14/11/19,Portugal,Lithuania,6,0,Portugal,FALSE,POR,LTU,24/10/19,1632,1598
+14/11/19,Serbia,Luxembourg,3,2,Serbia,FALSE,SRB,LUX,24/10/19,1485,1612
+14/11/19,France,Moldova,2,1,France,FALSE,FRA,MDA,24/10/19,1726,1189
+14/11/19,Ecuador,Trinidad and Tobago,3,0,Ecuador,FALSE,ECU,TRI,24/10/19,1368,1431
+14/11/19,Qatar,Singapore,2,0,Qatar,FALSE,QAT,SGP,24/10/19,1391,1272
+14/11/19,Jordan,Australia,0,1,Jordan,FALSE,JOR,AUS,24/10/19,1236,1568
+14/11/19,Iraq,Iran,2,1,Jordan,TRUE,IRQ,IRN,24/10/19,1327,1536
+14/11/19,Uzbekistan,Saudi Arabia,2,3,Uzbekistan,FALSE,UZB,KSA,24/10/19,1287,1540
+14/11/19,Lebanon,South Korea,0,0,Lebanon,FALSE,LBN,KOR,24/10/19,1266,1460
+15/11/19,Morocco,Mauritania,0,0,Morocco,FALSE,MAR,MTN,24/10/19,1457,1499
+15/11/19,Tunisia,Libya,4,1,Tunisia,FALSE,TUN,LBY,24/10/19,1495,1378
+15/11/19,Denmark,Gibraltar,6,0,Denmark,FALSE,DEN,GIB,24/10/19,1599,1339
+15/11/19,Switzerland,Georgia,1,0,Switzerland,FALSE,SUI,GEO,24/10/19,1601,1568
+15/11/19,Spain,Malta,7,0,Spain,FALSE,ESP,MLT,24/10/19,1625,1378
+15/11/19,Hungary,Uruguay,1,2,Hungary,FALSE,HUN,URU,24/10/19,1429,1525
+16/11/19,Northern Ireland,Netherlands,0,0,Northern Ireland,FALSE,NIR,NED,24/10/19,1483,1247
+16/11/19,Germany,Belarus,4,0,Germany,FALSE,GER,BLR,24/10/19,1586,1408
+16/11/19,Croatia,Slovakia,3,1,Croatia,FALSE,CRO,SVK,24/10/19,1631,1248
+16/11/19,Azerbaijan,Wales,0,2,Azerbaijan,FALSE,AZE,WAL,24/10/19,1189,1458
+16/11/19,Israel,Poland,1,2,Israel,FALSE,ISR,POL,24/10/19,1278,1594
+16/11/19,Russia,Belgium,1,4,Russia,FALSE,RUS,BEL,24/10/19,1474,1506
+17/11/19,Rwanda,Cameroon,0,1,Rwanda,FALSE,RWA,CMR,24/10/19,1106,1433
+17/11/19,Eswatini,Senegal,1,4,Eswatini,FALSE,SWZ,SEN,24/10/19,1055,1263
+17/11/19,Kosovo,England,0,4,Kosovo,FALSE,KOS,ENG,24/10/19,1184,1371
+17/11/19,Luxembourg,Portugal,0,2,Luxembourg,FALSE,LUX,POR,24/10/19,1248,1420
+17/11/19,Serbia,Ukraine,2,2,Serbia,FALSE,SRB,UKR,24/10/19,1485,1732
+17/11/19,Albania,France,0,2,Albania,FALSE,ALB,FRA,24/10/19,1367,1584
+18/11/19,S__o Tom__ and Pr__ncipe,Ghana,0,1,S__o Tom__ and Pr__ncipe,FALSE,STP,GHA,24/10/19,934,1549
+18/11/19,Republic of Ireland,Denmark,1,1,Republic of Ireland,FALSE,IRL,DEN,24/10/19,1480,1617
+18/11/19,Gibraltar,Switzerland,1,6,Gibraltar,FALSE,GIB,SUI,24/10/19,882,1452
+18/11/19,Spain,Romania,5,0,Spain,FALSE,ESP,ROU,24/10/19,1625,1112
+18/11/19,Argentina,Uruguay,2,2,Israel,TRUE,ARG,URU,24/10/19,1617,1408
+19/11/19,Burundi,Morocco,0,3,Burundi,FALSE,BDI,MAR,24/10/19,1063,1515
+19/11/19,Equatorial Guinea,Tunisia,0,1,Equatorial Guinea,FALSE,EQG,TUN,24/10/19,1083,1616
+19/11/19,Germany,Northern Ireland,6,1,Germany,FALSE,GER,NIR,24/10/19,1586,1440
+19/11/19,Netherlands,Estonia,5,0,Netherlands,FALSE,NED,EST,24/10/19,1602,1401
+19/11/19,Wales,Hungary,2,0,Wales,FALSE,WAL,HUN,24/10/19,1524,1501
+19/11/19,Poland,Slovenia,3,2,Poland,FALSE,POL,SVN,24/10/19,1544,1733
+19/11/19,Belgium,Cyprus,6,1,Belgium,FALSE,BEL,CYP,24/10/19,1755,1635
+19/11/19,Brazil,South Korea,3,0,United Arab Emirates,TRUE,BRA,KOR,24/10/19,1715,1476
+19/11/19,Croatia,Georgia,2,1,Croatia,FALSE,CRO,GEO,24/10/19,1631,1407
+19/11/19,Ecuador,Colombia,0,1,United States,TRUE,ECU,COL,24/10/19,1368,1550
+19/11/19,Saudi Arabia,Paraguay,0,0,Saudi Arabia,FALSE,KSA,PAR,24/10/19,1339,1473
+19/11/19,Afghanistan,Qatar,0,1,Tajikistan,TRUE,AFG,QAT,24/10/19,1054,1248
+7/1/2020,Barbados,Canada,1,4,United States,TRUE,BRB,CAN,19/12/19,1011,1523
+10/1/2020,Barbados,Canada,1,4,United States,TRUE,BRB,CAN,19/12/19,1011,1117
+15/01/20,Canada,Iceland,0,1,United States,TRUE,CAN,ISL,19/12/19,1331,1538
+1/2/2020,United States,Costa Rica,1,0,United States,FALSE,USA,CRC,19/12/19,1540,1549
+3/9/2020,Germany,Spain,1,1,Germany,FALSE,GER,ESP,16/07/20,1602,1300
+3/9/2020,Ukraine,Switzerland,2,1,Ukraine,FALSE,UKR,SUI,16/07/20,1537,1408
+3/9/2020,Russia,Serbia,3,1,Russia,FALSE,RUS,SRB,16/07/20,1470,1617
+3/9/2020,Finland,Wales,0,1,Finland,FALSE,FIN,WAL,16/07/20,1386,1479
+4/9/2020,Netherlands,Poland,1,0,Netherlands,FALSE,NED,POL,16/07/20,1604,1506
+5/9/2020,Iceland,England,0,1,Iceland,FALSE,ISL,ENG,16/07/20,1465,1334
+5/9/2020,Denmark,Belgium,0,2,Denmark,FALSE,DEN,BEL,16/07/20,1598,1254
+5/9/2020,Portugal,Croatia,4,1,Portugal,FALSE,POR,CRO,16/07/20,1639,1371
+5/9/2020,Sweden,France,0,1,Sweden,FALSE,SWE,FRA,16/07/20,1579,1452
+6/9/2020,Spain,Ukraine,4,0,Spain,FALSE,ESP,UKR,16/07/20,1636,1422
+6/9/2020,Switzerland,Germany,1,1,Switzerland,FALSE,SUI,GER,16/07/20,1608,1196
+6/9/2020,Serbia,Turkey,0,0,Serbia,FALSE,SRB,TUR,16/07/20,1494,1481
+6/9/2020,Wales,Bulgaria,1,0,Wales,FALSE,WAL,BUL,16/07/20,1540,1347
+7/9/2020,Bosnia and Herzegovina,Poland,1,2,Bosnia and Herzegovina,FALSE,BIH,POL,16/07/20,1430,1295
+7/9/2020,Netherlands,Italy,0,1,Netherlands,FALSE,NED,ITA,16/07/20,1604,1335
+8/9/2020,Belgium,Iceland,5,1,Belgium,FALSE,BEL,ISL,16/07/20,1765,1481
+8/9/2020,Denmark,England,0,0,Denmark,FALSE,DEN,ENG,16/07/20,1598,1196
+8/9/2020,France,Croatia,4,2,France,FALSE,FRA,CRO,16/07/20,1733,1171
+8/9/2020,Sweden,Portugal,0,2,Sweden,FALSE,SWE,POR,16/07/20,1579,1106
+7/10/2020,Denmark,Faroe Islands,4,0,Denmark,FALSE,DEN,FRO,17/09/20,1593,1196
+7/10/2020,France,Ukraine,7,1,France,FALSE,FRA,UKR,17/09/20,1744,1296
+7/10/2020,Germany,Turkey,3,3,Germany,FALSE,GER,TUR,17/09/20,1602,1120
+7/10/2020,Netherlands,Mexico,0,1,Netherlands,FALSE,NED,MEX,17/09/20,1603,1436
+7/10/2020,Poland,Finland,5,1,Poland,FALSE,POL,FIN,17/09/20,1558,1481
+7/10/2020,Portugal,Spain,0,0,Portugal,FALSE,POR,ESP,17/09/20,1653,1335
+7/10/2020,Switzerland,Croatia,1,2,Switzerland,FALSE,SUI,CRO,17/09/20,1600,1258
+8/10/2020,Belgium,Ivory Coast,1,1,Belgium,FALSE,BEL,CIV,17/09/20,1773,1414
+8/10/2020,England,Wales,3,0,England,FALSE,ENG,WAL,17/09/20,1664,1322
+8/10/2020,Uzbekistan,Iran,1,2,Uzbekistan,FALSE,UZB,IRN,17/09/20,1290,1317
+8/10/2020,Uruguay,Chile,2,1,Uruguay,FALSE,URU,CHI,17/09/20,1645,1271
+8/10/2020,Argentina,Ecuador,1,0,Argentina,FALSE,ARG,ECU,17/09/20,1623,1258
+8/10/2020,Norway,Serbia,1,2,Norway,FALSE,NOR,SRB,17/09/20,1452,1251
+9/10/2020,Japan,Cameroon,0,0,Netherlands,TRUE,JPN,CMR,17/09/20,1500,1295
+9/10/2020,Mali,Ghana,3,0,Turkey,TRUE,MLI,GHA,17/09/20,1389,1251
+9/10/2020,Morocco,Senegal,3,1,Morocco,FALSE,MAR,SEN,17/09/20,1456,1335
+9/10/2020,Tunisia,Sudan,3,0,Tunisia,FALSE,TUN,SDN,17/09/20,1506,1178
+9/10/2020,Brazil,Bolivia,5,0,Brazil,FALSE,BRA,BOL,17/09/20,1712,1271
+10/10/2020,Spain,Switzerland,1,0,Spain,FALSE,ESP,SUI,17/09/20,1642,1481
+10/10/2020,Ukraine,Germany,1,2,Ukraine,FALSE,UKR,GER,17/09/20,1539,1414
+10/10/2020,Costa Rica,Panama,0,1,Costa Rica,FALSE,CRC,PAN,17/09/20,1439,1258
+11/10/2020,Bosnia and Herzegovina,Netherlands,0,0,Bosnia and Herzegovina,FALSE,BIH,NED,17/09/20,1426,1436
+11/10/2020,Poland,Italy,0,0,Poland,FALSE,POL,ITA,17/09/20,1558,1326
+11/10/2020,England,Belgium,2,1,England,FALSE,ENG,BEL,17/09/20,1664,1414
+11/10/2020,Iceland,Denmark,0,3,Iceland,FALSE,ISL,DEN,17/09/20,1457,1258
+11/10/2020,Croatia,Sweden,2,1,Croatia,FALSE,CRO,SWE,17/09/20,1628,1258
+11/10/2020,France,Portugal,0,0,France,FALSE,FRA,POR,17/09/20,1744,1464
+11/10/2020,Serbia,Hungary,0,1,Serbia,FALSE,SRB,HUN,17/09/20,1486,1481
+11/10/2020,Republic of Ireland,Wales,0,0,Republic of Ireland,FALSE,IRL,WAL,17/09/20,1475,1260
+12/10/2020,Ghana,Qatar,5,1,Turkey,TRUE,GHA,QAT,17/09/20,1439,1589
+13/10/20,Cameroon,South Sudan,0,0,Cameroon,FALSE,CMR,SSD,17/09/20,1413,1344
+13/10/20,Germany,Switzerland,3,3,Germany,FALSE,GER,SUI,17/09/20,1602,1382
+13/10/20,Ukraine,Spain,1,0,Ukraine,FALSE,UKR,ESP,17/09/20,1539,1317
+13/10/20,Costa Rica,Panama,0,1,Costa Rica,FALSE,CRC,PAN,17/09/20,1439,1206
+13/10/20,Japan,Ivory Coast,1,0,Netherlands,TRUE,JPN,CIV,17/09/20,1500,1518
+13/10/20,Mexico,Algeria,2,2,Netherlands,TRUE,MEX,ALG,17/09/20,1621,1424
+13/10/20,Morocco,DR Congo,1,1,Morocco,FALSE,MAR,COD,17/09/20,1456,1478
+13/10/20,Nigeria,Tunisia,1,1,Austria,TRUE,NGA,TUN,17/09/20,1493,1461
+13/10/20,Bolivia,Argentina,1,2,Bolivia,FALSE,BOL,ARG,17/09/20,1324,1374
+13/10/20,Ecuador,Uruguay,4,2,Ecuador,FALSE,ECU,URU,17/09/20,1368,1565
+13/10/20,Peru,Brazil,2,4,Peru,FALSE,PER,BRA,17/09/20,1544,1435
+14/10/20,Italy,Netherlands,1,1,Italy,FALSE,ITA,NED,17/09/20,1612,1482
+14/10/20,Poland,Bosnia and Herzegovina,3,0,Poland,FALSE,POL,BIH,17/09/20,1558,1726
+14/10/20,Iceland,Belgium,1,2,Iceland,FALSE,ISL,BEL,17/09/20,1457,1324
+14/10/20,England,Denmark,0,1,England,FALSE,ENG,DEN,17/09/20,1664,1599
+14/10/20,Portugal,Sweden,3,0,Portugal,FALSE,POR,SWE,17/09/20,1653,1425
+14/10/20,Croatia,France,1,2,Croatia,FALSE,CRO,FRA,17/09/20,1628,1209
+14/10/20,Turkey,Serbia,2,2,Turkey,FALSE,TUR,SRB,17/09/20,1485,1076
+14/10/20,Bulgaria,Wales,0,1,Bulgaria,FALSE,BUL,WAL,17/09/20,1378,1210
+11/11/2020,Belgium,Switzerland,2,1,Belgium,FALSE,BEL,SUI,22/10/20,1765,1558
+11/11/2020,Denmark,Sweden,2,0,Denmark,FALSE,DEN,SWE,22/10/20,1610,1483
+11/11/2020,France,Finland,0,2,France,FALSE,FRA,FIN,22/10/20,1752,1634
+11/11/2020,Germany,Czech Republic,1,0,Germany,FALSE,GER,CZE,22/10/20,1607,1112
+11/11/2020,Netherlands,Spain,1,1,Netherlands,FALSE,NED,ESP,22/10/20,1596,1727
+11/11/2020,Poland,Ukraine,2,0,Poland,FALSE,POL,UKR,22/10/20,1568,1063
+11/11/2020,Portugal,Andorra,7,0,Portugal,FALSE,POR,AND,22/10/20,1661,1631
+11/11/2020,Turkey,Croatia,3,3,Turkey,FALSE,TUR,CRO,22/10/20,1486,1481
+12/11/2020,Serbia,Scotland,1,1,Serbia,FALSE,SRB,SCO,22/10/20,1489,1451
+12/11/2020,Bosnia and Herzegovina,Iran,0,2,Bosnia and Herzegovina,FALSE,BIH,IRN,22/10/20,1424,1493
+12/11/2020,England,Republic of Ireland,3,0,England,FALSE,ENG,IRL,22/10/20,1669,1404
+12/11/2020,Wales,United States,0,0,Wales,FALSE,WAL,USA,22/10/20,1550,1676
+12/11/2020,Bolivia,Ecuador,2,3,Bolivia,FALSE,BOL,ECU,22/10/20,1314,1222
+12/11/2020,Argentina,Paraguay,1,1,Argentina,FALSE,ARG,PAR,22/10/20,1636,1382
+13/11/20,Costa Rica,Qatar,1,1,Austria,TRUE,CRC,QAT,22/10/20,1427,1575
+13/11/20,Japan,Panama,1,0,Austria,TRUE,JPN,PAN,22/10/20,1503,1582
+13/11/20,Colombia,Uruguay,0,3,Colombia,FALSE,COL,URU,22/10/20,1631,1540
+13/11/20,Brazil,Venezuela,1,0,Brazil,FALSE,BRA,VEN,22/10/20,1725,1363
+14/11/20,Portugal,France,0,1,Portugal,FALSE,POR,FRA,22/10/20,1661,1565
+14/11/20,Sweden,Croatia,2,1,Sweden,FALSE,SWE,CRO,22/10/20,1558,1589
+14/11/20,Germany,Ukraine,3,1,Germany,FALSE,GER,UKR,22/10/20,1607,1591
+14/11/20,Switzerland,Spain,1,1,Switzerland,FALSE,SUI,ESP,22/10/20,1589,1378
+14/11/20,Mexico,South Korea,3,2,Austria,TRUE,MEX,KOR,22/10/20,1625,1366
+14/11/20,Saudi Arabia,Jamaica,3,0,Saudi Arabia,FALSE,KSA,JAM,22/10/20,1351,1398
+15/11/20,Netherlands,Bosnia and Herzegovina,3,1,Netherlands,FALSE,NED,BIH,22/10/20,1596,1484
+15/11/20,Italy,Poland,2,0,Italy,FALSE,ITA,POL,22/10/20,1612,1458
+15/11/20,Belgium,England,2,0,Belgium,FALSE,BEL,ENG,22/10/20,1765,1391
+15/11/20,Denmark,Iceland,2,1,Denmark,FALSE,DEN,ISL,22/10/20,1610,1604
+15/11/20,Hungary,Serbia,1,1,Hungary,FALSE,HUN,SRB,22/10/20,1439,1286
+15/11/20,Wales,Republic of Ireland,1,0,Wales,FALSE,WAL,IRL,22/10/20,1550,1554
+16/11/20,United States,Panama,6,2,Austria,TRUE,USA,PAN,22/10/20,1542,1484
+17/11/20,Croatia,Portugal,2,3,Croatia,FALSE,CRO,POR,22/10/20,1634,1484
+17/11/20,France,Sweden,4,2,France,FALSE,FRA,SWE,22/10/20,1752,1601
+17/11/20,Spain,Germany,6,0,Spain,FALSE,ESP,GER,22/10/20,1639,1535
+17/11/20,Switzerland,Ukraine,3,0,Switzerland,FALSE,SUI,UKR,22/10/20,1589,1120
+17/11/20,Japan,Mexico,0,2,Austria,TRUE,JPN,MEX,22/10/20,1503,1441
+17/11/20,South Korea,Qatar,2,1,Austria,TRUE,KOR,QAT,22/10/20,1464,1319
+17/11/20,Saudi Arabia,Jamaica,1,2,Saudi Arabia,FALSE,KSA,JAM,22/10/20,1351,1327
+17/11/20,Ecuador,Colombia,6,1,Ecuador,FALSE,ECU,COL,22/10/20,1380,1570
+17/11/20,Peru,Argentina,0,2,Peru,FALSE,PER,ARG,22/10/20,1533,1539
+17/11/20,Uruguay,Brazil,0,2,Uruguay,FALSE,URU,BRA,22/10/20,1637,1734
+18/11/20,Poland,Netherlands,1,2,Poland,FALSE,POL,NED,22/10/20,1568,1171
+18/11/20,England,Iceland,4,0,England,FALSE,ENG,ISL,22/10/20,1669,1369
+18/11/20,Belgium,Denmark,4,2,Belgium,FALSE,BEL,DEN,22/10/20,1765,1302
+18/11/20,Serbia,Russia,5,0,Serbia,FALSE,SRB,RUS,22/10/20,1489,1378
+18/11/20,Wales,Finland,3,1,Wales,FALSE,WAL,FIN,22/10/20,1550,1484
+4/12/2020,Qatar,Bangladesh,5,0,Qatar,FALSE,QAT,BAN,26/11/20,1387,1647
+9/12/2020,United States,El Salvador,6,0,United States,FALSE,USA,SLV,26/11/20,1545,1554
+25/01/21,Dominican Republic,Serbia,0,0,Dominican Republic,FALSE,DOM,SRB,10/12/2020,1019,1102
+28/01/21,Panama,Serbia,0,0,Panama,FALSE,PAN,SRB,10/12/2020,1311,1256
+31/01/21,United States,Trinidad and Tobago,7,0,United States,FALSE,USA,TRI,10/12/2020,1545,1567
+24/03/21,Qatar,Luxembourg,1,0,Hungary,TRUE,QAT,LUX,18/02/21,1391,1285
+24/03/21,Portugal,Azerbaijan,1,0,Italy,TRUE,POR,AZE,18/02/21,1662,1240
+24/03/21,Serbia,Republic of Ireland,3,2,Serbia,FALSE,SRB,IRL,18/02/21,1492,1539
+24/03/21,France,Ukraine,1,1,France,FALSE,FRA,UKR,18/02/21,1755,1734
+24/03/21,Belgium,Wales,3,1,Belgium,FALSE,BEL,WAL,18/02/21,1780,1430
+24/03/21,Turkey,Netherlands,4,2,Turkey,FALSE,TUR,NED,18/02/21,1487,1491
+24/03/21,Slovenia,Croatia,1,0,Slovenia,FALSE,SVN,CRO,18/02/21,1379,1516
+25/03/21,Japan,South Korea,3,0,Japan,FALSE,JPN,KOR,18/02/21,1502,994
+25/03/21,Saudi Arabia,Kuwait,1,0,Saudi Arabia,FALSE,KSA,KUW,18/02/21,1353,1365
+25/03/21,United States,Jamaica,4,1,Austria,TRUE,USA,JAM,18/02/21,1548,1366
+25/03/21,Canada,Bermuda,5,1,United States,TRUE,CAN,BER,18/02/21,1332,1580
+25/03/21,Spain,Greece,1,1,Spain,FALSE,ESP,GRE,18/02/21,1645,1335
+25/03/21,Bulgaria,Switzerland,1,3,Bulgaria,FALSE,BUL,SUI,18/02/21,1350,1396
+25/03/21,Israel,Denmark,0,2,Israel,FALSE,ISR,DEN,18/02/21,1279,1375
+25/03/21,England,San Marino,5,0,England,FALSE,ENG,SMR,18/02/21,1670,1298
+25/03/21,Hungary,Poland,3,3,Hungary,FALSE,HUN,POL,18/02/21,1460,1433
+25/03/21,Germany,Iceland,3,0,Germany,FALSE,GER,ISL,18/02/21,1610,1561
+25/03/21,South Africa,Ghana,1,1,South Africa,FALSE,RSA,GHA,18/02/21,1341,1092
+25/03/21,Libya,Tunisia,2,5,Libya,FALSE,LBY,TUN,18/02/21,1177,1485
+26/03/21,Mauritania,Morocco,0,0,Mauritania,FALSE,MTN,MAR,18/02/21,1207,1396
+26/03/21,Cape Verde,Cameroon,3,1,Cape Verde,FALSE,CPV,CMR,18/02/21,1306,1468
+26/03/21,Congo,Senegal,0,0,Congo,FALSE,CGO,SEN,18/02/21,1265,1496
+27/03/21,Bosnia and Herzegovina,Costa Rica,0,0,Bosnia and Herzegovina,FALSE,BIH,CRC,18/02/21,1410,1561
+27/03/21,Qatar,Azerbaijan,2,1,Hungary,TRUE,QAT,AZE,18/02/21,1391,1516
+27/03/21,Wales,Mexico,1,0,Wales,FALSE,WAL,MEX,18/02/21,1562,1105
+27/03/21,Serbia,Portugal,2,2,Serbia,FALSE,SRB,POR,18/02/21,1492,1182
+27/03/21,Czech Republic,Belgium,1,1,Czech Republic,FALSE,CZE,BEL,18/02/21,1456,1582
+27/03/21,Netherlands,Latvia,2,0,Netherlands,FALSE,NED,LVA,18/02/21,1609,1142
+27/03/21,Croatia,Cyprus,1,0,Croatia,FALSE,CRO,CYP,18/02/21,1617,1615
+28/03/21,Northern Ireland,United States,1,2,Northern Ireland,FALSE,NIR,USA,18/02/21,1440,1496
+28/03/21,Georgia,Spain,1,2,Georgia,FALSE,GEO,ESP,18/02/21,1267,1158
+28/03/21,Switzerland,Lithuania,1,0,Switzerland,FALSE,SUI,LTU,18/02/21,1593,1273
+28/03/21,Kazakhstan,France,0,2,Kazakhstan,FALSE,KAZ,FRA,18/02/21,1142,1346
+28/03/21,Denmark,Moldova,8,0,Denmark,FALSE,DEN,MDA,18/02/21,1614,1468
+28/03/21,Albania,England,0,2,Albania,FALSE,ALB,ENG,18/02/21,1360,1365
+28/03/21,Poland,Andorra,3,0,Poland,FALSE,POL,AND,18/02/21,1559,1365
+28/03/21,Romania,Germany,0,1,Romania,FALSE,ROU,GER,18/02/21,1466,1582
+28/03/21,Ghana,S__o Tom__ and Pr__ncipe,3,1,Ghana,FALSE,GHA,STP,18/02/21,1424,1423
+28/03/21,Tunisia,Equatorial Guinea,2,1,Tunisia,FALSE,TUN,EQG,18/02/21,1503,1516
+29/03/21,Ecuador,Bolivia,2,1,Ecuador,FALSE,ECU,BOL,18/02/21,1409,1515
+29/03/21,Cayman Islands,Canada,0,11,United States,TRUE,CAY,CAN,18/02/21,897,1429
+30/03/21,Costa Rica,Mexico,0,1,Austria,TRUE,CRC,MEX,18/02/21,1427,1501
+30/03/21,Iran,Syria,3,0,Iran,FALSE,IRN,SYR,18/02/21,1496,1404
+30/03/21,Republic of Ireland,Qatar,1,1,Hungary,TRUE,IRL,QAT,18/02/21,1456,1423
+30/03/21,Azerbaijan,Serbia,1,2,Azerbaijan,FALSE,AZE,SRB,18/02/21,1180,1582
+30/03/21,Luxembourg,Portugal,1,3,Luxembourg,FALSE,LUX,POR,18/02/21,1235,1273
+30/03/21,Wales,Czech Republic,1,0,Wales,FALSE,WAL,CZE,18/02/21,1562,1515
+30/03/21,Belgium,Belarus,8,0,Belgium,FALSE,BEL,BLR,18/02/21,1780,1404
+30/03/21,Gibraltar,Netherlands,0,7,Gibraltar,FALSE,GIB,NED,18/02/21,888,1561
+30/03/21,Croatia,Malta,3,0,Croatia,FALSE,CRO,MLT,18/02/21,1617,1516
+30/03/21,Saudi Arabia,Palestine,5,0,Saudi Arabia,FALSE,KSA,PLE,18/02/21,1353,1501
+30/03/21,Japan,Mongolia,14,0,Japan,FALSE,JPN,MNG,18/02/21,1502,1273
+30/03/21,Morocco,Burundi,1,0,Morocco,FALSE,MAR,BDI,18/02/21,1481,1501
+30/03/21,Cameroon,Rwanda,0,0,Cameroon,FALSE,CMR,RWA,18/02/21,1427,1501
+30/03/21,Senegal,Eswatini,1,1,Senegal,FALSE,SEN,SWZ,18/02/21,1558,1433
+31/03/21,Switzerland,Finland,3,2,Switzerland,FALSE,SUI,FIN,18/02/21,1593,1346
+31/03/21,Spain,Kosovo,3,1,Spain,FALSE,ESP,KOS,18/02/21,1645,1550
+31/03/21,Bosnia and Herzegovina,France,0,1,Bosnia and Herzegovina,FALSE,BIH,FRA,18/02/21,1410,1044
+31/03/21,Austria,Denmark,0,4,Austria,FALSE,AUT,DEN,18/02/21,1531,1583
+31/03/21,England,Poland,2,1,England,FALSE,ENG,POL,18/02/21,1670,1255
+31/03/21,Germany,North Macedonia,1,2,Germany,FALSE,GER,MKD,18/02/21,1610,1359
+29/05/21,Mexico,Iceland,2,1,United States,TRUE,MEX,ISL,27/05/21,1629.56,1389
+30/05/21,Switzerland,United States,2,1,Switzerland,FALSE,SUI,USA,27/05/21,1606.21,1605
+1/6/2021,Croatia,Armenia,1,1,Croatia,FALSE,CRO,ARM,27/05/21,1605.75,1589
+1/6/2021,Poland,Russia,1,1,Poland,FALSE,POL,RUS,27/05/21,1549.87,1617
+2/6/2021,England,Austria,1,0,England,FALSE,ENG,AUT,27/05/21,1686.78,1058
+2/6/2021,France,Wales,3,0,France,FALSE,FRA,WAL,27/05/21,1757.3,1622
+2/6/2021,Germany,Denmark,1,1,Austria,TRUE,GER,DEN,27/05/21,1609.12,1637
+2/6/2021,Netherlands,Scotland,2,2,Portugal,TRUE,NED,SCO,27/05/21,1598.04,1381
+3/6/2021,Belgium,Greece,1,1,Belgium,FALSE,BEL,GRE,27/05/21,1783.38,1205
+3/6/2021,Switzerland,Liechtenstein,7,0,Switzerland,FALSE,SUI,LIE,27/05/21,1606.21,1604
+3/6/2021,Iran,Hong Kong,3,1,Iran,FALSE,IRN,HKG,27/05/21,1499.52,1569
+3/6/2021,Uruguay,Paraguay,0,0,Uruguay,FALSE,URU,PAR,27/05/21,1639.08,1188
+3/6/2021,Argentina,Chile,1,1,Argentina,FALSE,ARG,CHI,27/05/21,1641.95,1625
+3/6/2021,Kuwait,Australia,0,3,Kuwait,FALSE,KUW,AUS,27/05/21,1056.3,1550
+3/6/2021,Qatar,India,1,0,Qatar,FALSE,QAT,IND,27/05/21,1397.92,1746
+4/6/2021,Nigeria,Cameroon,0,1,Austria,TRUE,NGA,CMR,27/05/21,1487.16,1388
+4/6/2021,Spain,Portugal,0,0,Spain,FALSE,ESP,POR,27/05/21,1648.13,1631
+4/6/2021,Brazil,Ecuador,2,0,Brazil,FALSE,BRA,ECU,27/05/21,1742.65,1362
+5/6/2021,Senegal,Zambia,3,1,Senegal,FALSE,SEN,ZAM,27/05/21,1542.45,893
+5/6/2021,Tunisia,DR Congo,1,0,Tunisia,FALSE,TUN,COD,27/05/21,1512.88,1589
+5/6/2021,Wales,Albania,0,0,Wales,FALSE,WAL,ALB,27/05/21,1570.36,1200
+5/6/2021,Saudi Arabia,Yemen,3,0,Saudi Arabia,FALSE,KSA,YEM,27/05/21,1364.39,1286
+5/6/2021,South Korea,Turkmenistan,5,0,South Korea,FALSE,KOR,TKM,27/05/21,1460.25,1582
+5/6/2021,Aruba,Canada,0,7,United States,TRUE,ARU,CAN,27/05/21,850.1,1569
+6/6/2021,Belgium,Croatia,1,0,Belgium,FALSE,BEL,CRO,27/05/21,1783.38,1625
+6/6/2021,Denmark,Bosnia and Herzegovina,2,0,Denmark,FALSE,DEN,BIH,27/05/21,1631.55,1498
+6/6/2021,England,Romania,1,0,England,FALSE,ENG,ROU,27/05/21,1686.78,1746
+6/6/2021,Netherlands,Georgia,3,0,Netherlands,FALSE,NED,GEO,27/05/21,1598.04,1604
+7/6/2021,Germany,Latvia,7,1,Germany,FALSE,GER,LVA,27/05/21,1609.12,1552
+7/6/2021,Serbia,Jamaica,1,1,Japan,TRUE,SRB,JAM,27/05/21,1512.9,1332
+7/6/2021,Australia,Taiwan,5,1,Kuwait,TRUE,AUS,TPE,27/05/21,1457.49,1496
+7/6/2021,Japan,Tajikistan,4,1,Japan,FALSE,JPN,TJK,27/05/21,1509.34,1209
+7/6/2021,Bahrain,Iran,0,3,Bahrain,FALSE,BHR,IRN,27/05/21,1240.1,1637
+7/6/2021,Qatar,Oman,1,0,Qatar,FALSE,QAT,OMA,27/05/21,1397.92,1149
+8/6/2021,Cameroon,Nigeria,0,0,Austria,TRUE,CMR,NGA,27/05/21,1404.87,1477
+8/6/2021,France,Bulgaria,3,0,France,FALSE,FRA,BUL,27/05/21,1757.3,1631
+8/6/2021,Morocco,Ghana,1,0,Morocco,FALSE,MAR,GHA,27/05/21,1479.32,1082
+8/6/2021,Poland,Iceland,2,2,Poland,FALSE,POL,ISL,27/05/21,1549.87,1436
+8/6/2021,Senegal,Cape Verde,2,0,Senegal,FALSE,SEN,CPV,27/05/21,1542.45,1518
+8/6/2021,Spain,Lithuania,4,0,Spain,FALSE,ESP,LTU,27/05/21,1648.13,1342
+8/6/2021,Canada,Suriname,4,0,United States,TRUE,CAN,SUR,27/05/21,1340.56,1214
+8/6/2021,Ecuador,Peru,1,2,Ecuador,FALSE,ECU,PER,27/05/21,1413.01,1481
+8/6/2021,Colombia,Argentina,2,2,Colombia,FALSE,COL,ARG,27/05/21,1600.66,1467
+8/6/2021,Venezuela,Uruguay,0,0,Venezuela,FALSE,VEN,URU,27/05/21,1500.71,1463
+8/6/2021,Paraguay,Brazil,0,2,Paraguay,FALSE,PAR,BRA,27/05/21,1476.02,1212
+9/6/2021,Portugal,Israel,4,0,Portugal,FALSE,POR,ISR,27/05/21,1666.12,1325
+9/6/2021,United States,Costa Rica,4,0,United States,FALSE,USA,CRC,27/05/21,1555.42,1381
+9/6/2021,South Korea,Sri Lanka,5,0,South Korea,FALSE,KOR,SRI,27/05/21,1460.25,1226
+11/6/2021,Nepal,Australia,0,3,Kuwait,TRUE,NEP,AUS,27/05/21,967.88,1614
+11/6/2021,Cambodia,Iran,0,10,Bahrain,TRUE,CAM,IRN,27/05/21,963.79,1488
+11/6/2021,Tunisia,Algeria,0,2,Tunisia,FALSE,TUN,ALG,27/05/21,1512.88,1430
+11/6/2021,Saudi Arabia,Singapore,3,0,Saudi Arabia,FALSE,KSA,SGP,27/05/21,1364.39,1522
+12/6/2021,Haiti,Canada,0,1,Haiti,FALSE,HAI,CAN,27/05/21,1290.62,1532
+12/6/2021,Ghana,Ivory Coast,0,0,Ghana,FALSE,GHA,CIV,27/05/21,1425.26,835
+12/6/2021,Mexico,Honduras,0,0,United States,TRUE,MEX,HON,27/05/21,1629.56,1546
+12/6/2021,Morocco,Burkina Faso,1,0,Morocco,FALSE,MAR,BFA,27/05/21,1479.32,1462
+12/6/2021,Wales,Switzerland,1,1,Wales,FALSE,WAL,SUI,27/05/21,1570.36,999
+12/6/2021,Denmark,Finland,0,1,Denmark,FALSE,DEN,FIN,27/05/21,1631.55,982
+12/6/2021,Russia,Belgium,0,3,Russia,FALSE,RUS,BEL,27/05/21,1462.65,1019
+13/06/21,South Korea,Lebanon,2,1,South Korea,FALSE,KOR,LBN,27/05/21,1460.25,1377
+13/06/21,Netherlands,Ukraine,3,2,Netherlands,FALSE,NED,UKR,27/05/21,1598.04,923
+13/06/21,England,Croatia,1,0,England,FALSE,ENG,CRO,27/05/21,1686.78,872
+13/06/21,Brazil,Venezuela,3,0,Brazil,FALSE,BRA,VEN,27/05/21,1742.65,1662
+13/06/21,Colombia,Ecuador,1,0,Brazil,TRUE,COL,ECU,27/05/21,1600.66,1255
+14/06/21,Poland,Slovakia,1,2,Russia,TRUE,POL,SVK,27/05/21,1549.87,1725
+14/06/21,Spain,Sweden,0,0,Spain,FALSE,ESP,SWE,27/05/21,1648.13,1212
+14/06/21,Argentina,Chile,1,1,Brazil,TRUE,ARG,CHI,27/05/21,1641.95,1551
+15/06/21,Australia,Jordan,1,0,Kuwait,TRUE,AUS,JOR,27/05/21,1457.49,1604
+15/06/21,Iran,Iraq,1,0,Iran,FALSE,IRN,IRQ,27/05/21,1499.52,1631
+15/06/21,Saudi Arabia,Uzbekistan,3,0,Saudi Arabia,FALSE,KSA,UZB,27/05/21,1364.39,1409
+15/06/21,Canada,Haiti,3,0,United States,TRUE,CAN,HAI,27/05/21,1340.56,1586
+15/06/21,Tunisia,Mali,1,0,Tunisia,FALSE,TUN,MLI,27/05/21,1512.88,1580
+15/06/21,Hungary,Portugal,0,3,Hungary,FALSE,HUN,POR,27/05/21,1468.75,1625
+15/06/21,Germany,France,0,1,Germany,FALSE,GER,FRA,27/05/21,1609.12,1339
+16/06/21,Turkey,Wales,0,2,Azerbaijan,TRUE,TUR,WAL,27/05/21,1505.05,1752
+16/06/21,Italy,Switzerland,3,0,Italy,FALSE,ITA,SUI,27/05/21,1642.06,1482
+17/06/21,Denmark,Belgium,1,2,Denmark,FALSE,DEN,BEL,27/05/21,1631.55,1614
+17/06/21,Netherlands,Austria,2,0,Netherlands,FALSE,NED,AUT,27/05/21,1598.04,1662
+17/06/21,Brazil,Peru,4,0,Brazil,FALSE,BRA,PER,27/05/21,1742.65,1476
+18/06/21,Croatia,Czech Republic,1,1,Scotland,TRUE,CRO,CZE,27/05/21,1605.75,1643
+18/06/21,England,Scotland,0,0,England,FALSE,ENG,SCO,27/05/21,1686.78,1475
+18/06/21,Argentina,Uruguay,1,0,Brazil,TRUE,ARG,URU,27/05/21,1641.95,1496
+19/06/21,Spain,Poland,1,1,Spain,FALSE,ESP,POL,27/05/21,1648.13,1631
+19/06/21,Hungary,France,1,1,Hungary,FALSE,HUN,FRA,27/05/21,1468.75,1255
+19/06/21,Germany,Portugal,4,2,Germany,FALSE,GER,POR,27/05/21,1609.12,1272
+20/06/21,Italy,Wales,1,0,Italy,FALSE,ITA,WAL,27/05/21,1642.06,1639
+20/06/21,Switzerland,Turkey,3,1,Azerbaijan,TRUE,SUI,TUR,27/05/21,1606.21,1441
+20/06/21,Venezuela,Ecuador,2,2,Brazil,TRUE,VEN,ECU,27/05/21,1500.71,1522
+21/06/21,Denmark,Russia,4,1,Denmark,FALSE,DEN,RUS,27/05/21,1631.55,1336
+21/06/21,Finland,Belgium,0,2,Russia,TRUE,FIN,BEL,27/05/21,1410.82,1292
+21/06/21,Netherlands,North Macedonia,3,0,Netherlands,FALSE,NED,MKD,27/05/21,1598.04,1490
+21/06/21,Uruguay,Chile,1,1,Brazil,TRUE,URU,CHI,27/05/21,1639.08,1470
+21/06/21,Argentina,Paraguay,1,0,Brazil,TRUE,ARG,PAR,27/05/21,1641.95,1466
+22/06/21,Scotland,Croatia,1,3,Scotland,FALSE,SCO,CRO,27/05/21,1441.43,1493
+22/06/21,England,Czech Republic,1,0,England,FALSE,ENG,CZE,27/05/21,1686.78,1546
+23/06/21,Spain,Slovakia,5,0,Spain,FALSE,ESP,SVK,27/05/21,1648.13,1429
+23/06/21,Sweden,Poland,3,2,Russia,TRUE,SWE,POL,27/05/21,1569.81,1319
+23/06/21,Germany,Hungary,2,2,Germany,FALSE,GER,HUN,27/05/21,1609.12,1265
+23/06/21,Portugal,France,2,2,Hungary,TRUE,POR,FRA,27/05/21,1666.12,1337
+23/06/21,Ecuador,Peru,2,2,Brazil,TRUE,ECU,PER,27/05/21,1413.01,1371
+23/06/21,Brazil,Colombia,2,1,Brazil,FALSE,BRA,COL,27/05/21,1742.65,1086
+24/06/21,Bolivia,Uruguay,0,2,Brazil,TRUE,BOL,URU,27/05/21,1300.11,1248
+26/06/21,Wales,Denmark,0,4,Netherlands,TRUE,WAL,DEN,27/05/21,1570.36,963
+27/06/21,Netherlands,Czech Republic,0,2,Hungary,TRUE,NED,CZE,27/05/21,1598.04,1213
+27/06/21,Belgium,Portugal,1,0,Spain,TRUE,BEL,POR,27/05/21,1783.38,1008
+27/06/21,Brazil,Ecuador,1,1,Brazil,FALSE,BRA,ECU,27/05/21,1742.65,1450
+28/06/21,Croatia,Spain,3,5,Denmark,TRUE,CRO,ESP,27/05/21,1605.75,1505
+28/06/21,France,Switzerland,3,3,Romania,TRUE,FRA,SUI,27/05/21,1757.3,1339
+28/06/21,Argentina,Bolivia,4,1,Brazil,TRUE,ARG,BOL,27/05/21,1641.95,1466
+28/06/21,Uruguay,Paraguay,1,0,Brazil,TRUE,URU,PAR,27/05/21,1639.08,1205
+29/06/21,England,Germany,2,0,England,FALSE,ENG,GER,27/05/21,1686.78,1211
+30/06/21,Mexico,Panama,3,0,United States,TRUE,MEX,PAN,27/05/21,1629.56,882
+2/7/2021,Switzerland,Spain,1,1,Russia,TRUE,SUI,ESP,27/05/21,1606.21,1274
+2/7/2021,Belgium,Italy,1,2,Germany,TRUE,BEL,ITA,27/05/21,1783.38,924
+2/7/2021,Brazil,Chile,1,0,Brazil,FALSE,BRA,CHI,27/05/21,1742.65,1642
+3/7/2021,Czech Republic,Denmark,1,2,Azerbaijan,TRUE,CZE,DEN,27/05/21,1458.81,1602
+3/7/2021,Ukraine,England,0,4,Italy,TRUE,UKR,ENG,27/05/21,1514.64,1286
+3/7/2021,Mexico,Nigeria,4,0,United States,TRUE,MEX,NGA,27/05/21,1629.56,1493
+3/7/2021,Uruguay,Colombia,0,0,Brazil,TRUE,URU,COL,27/05/21,1639.08,1524
+3/7/2021,Argentina,Ecuador,3,0,Brazil,TRUE,ARG,ECU,27/05/21,1641.95,1544
+4/7/2021,Qatar,El Salvador,1,0,Croatia,TRUE,QAT,SLV,27/05/21,1397.92,1755
+5/7/2021,Brazil,Peru,1,0,Brazil,FALSE,BRA,PER,27/05/21,1742.65,1409
+6/7/2021,Argentina,Colombia,1,1,Brazil,TRUE,ARG,COL,27/05/21,1641.95,1546
+6/7/2021,Italy,Spain,1,1,England,TRUE,ITA,ESP,27/05/21,1642.06,1651
+7/7/2021,England,Denmark,2,1,England,FALSE,ENG,DEN,27/05/21,1686.78,1632
+10/7/2021,Brazil,Argentina,0,1,Brazil,FALSE,BRA,ARG,27/05/21,1742.65,1536
+11/7/2021,England,Italy,1,1,England,FALSE,ENG,ITA,27/05/21,1686.78,1726
+21/08/21,El Salvador,Costa Rica,0,0,United States,TRUE,SLV,CRC,12/8/2021,1375.43,1426
+1/9/2021,Finland,Wales,0,0,Finland,FALSE,FIN,WAL,12/8/2021,1403.92,1599
+1/9/2021,Qatar,Serbia,0,4,Hungary,TRUE,QAT,SRB,12/8/2021,1455.23,1601
+1/9/2021,Switzerland,Greece,2,1,Switzerland,FALSE,SUI,GRE,12/8/2021,1621.37,1495
+1/9/2021,Senegal,Togo,2,0,Senegal,FALSE,SEN,TOG,12/8/2021,1545.38,1642
+1/9/2021,Portugal,Republic of Ireland,2,1,Portugal,FALSE,POR,IRL,12/8/2021,1661.51,1457
+1/9/2021,France,Bosnia and Herzegovina,1,1,France,FALSE,FRA,BIH,12/8/2021,1761.77,1495
+1/9/2021,Denmark,Scotland,2,0,Denmark,FALSE,DEN,SCO,12/8/2021,1642.28,1483
+1/9/2021,Norway,Netherlands,1,1,Norway,FALSE,NOR,NED,12/8/2021,1450.12,1209
+1/9/2021,Russia,Croatia,0,0,Russia,FALSE,RUS,CRO,12/8/2021,1462.24,1429
+2/9/2021,Morocco,Sudan,2,0,Morocco,FALSE,MAR,SDN,12/8/2021,1487.89,1367
+2/9/2021,South Korea,Iraq,0,0,South Korea,FALSE,KOR,IRQ,12/8/2021,1474.96,1263
+2/9/2021,Iran,Syria,1,0,Iran,FALSE,IRN,SYR,12/8/2021,1522.04,1466
+2/9/2021,Japan,Oman,0,1,Japan,FALSE,JPN,OMA,12/8/2021,1529.45,1274
+2/9/2021,Australia,China PR,3,0,Qatar,TRUE,AUS,CHN,12/8/2021,1477.21,1615
+2/9/2021,Saudi Arabia,Vietnam,3,1,Saudi Arabia,FALSE,KSA,VIE,12/8/2021,1386.03,1458
+2/9/2021,Sweden,Spain,2,1,Sweden,FALSE,SWE,ESP,12/8/2021,1606.79,1391
+2/9/2021,Estonia,Belgium,2,5,Estonia,FALSE,EST,BEL,12/8/2021,1170.89,1331
+2/9/2021,Hungary,England,0,4,Hungary,FALSE,HUN,ENG,12/8/2021,1474.36,1331
+2/9/2021,Poland,Albania,4,1,Poland,FALSE,POL,ALB,12/8/2021,1516.27,1464
+2/9/2021,Liechtenstein,Germany,0,2,Switzerland,TRUE,LIE,GER,12/8/2021,907.66,1442
+2/9/2021,Ecuador,Paraguay,2,0,Ecuador,FALSE,ECU,PAR,12/8/2021,1405.26,1636
+2/9/2021,Peru,Uruguay,1,1,Peru,FALSE,PER,URU,12/8/2021,1543.16,1608
+2/9/2021,Venezuela,Argentina,1,3,Venezuela,FALSE,VEN,ARG,12/8/2021,1463.3,1494
+2/9/2021,Chile,Brazil,0,1,Chile,FALSE,CHI,BRA,12/8/2021,1557.81,1540
+2/9/2021,Canada,Honduras,1,1,Canada,FALSE,CAN,HON,12/8/2021,1399.35,1559
+2/9/2021,El Salvador,United States,0,0,El Salvador,FALSE,SLV,USA,12/8/2021,1375.43,1661
+2/9/2021,Panama,Costa Rica,0,0,Panama,FALSE,PAN,CRC,12/8/2021,1334.85,1765
+2/9/2021,Mexico,Jamaica,2,1,Mexico,FALSE,MEX,JAM,12/8/2021,1658.29,1642
+3/9/2021,Tunisia,Equatorial Guinea,3,0,Tunisia,FALSE,TUN,EQG,12/8/2021,1515.3,1733
+3/9/2021,Cameroon,Malawi,2,0,Cameroon,FALSE,CMR,MWI,12/8/2021,1410.65,1537
+3/9/2021,Ghana,Ethiopia,1,0,Ghana,FALSE,GHA,ETH,12/8/2021,1420.61,1602
+4/9/2021,Qatar,Portugal,1,3,Hungary,TRUE,QAT,POR,12/8/2021,1455.23,1494
+4/9/2021,Serbia,Luxembourg,4,1,Serbia,FALSE,SRB,LUX,12/8/2021,1507.19,1381
+4/9/2021,Ukraine,France,1,1,Ukraine,FALSE,UKR,FRA,12/8/2021,1522.7,1559
+4/9/2021,Faroe Islands,Denmark,0,1,Faroe Islands,FALSE,FRO,DEN,12/8/2021,1165.43,1607
+4/9/2021,Netherlands,Montenegro,4,0,Netherlands,FALSE,NED,MNE,12/8/2021,1637.48,1465
+4/9/2021,Slovakia,Croatia,0,1,Slovakia,FALSE,SVK,CRO,12/8/2021,1467.4,1661
+5/9/2021,Spain,Georgia,4,0,Spain,FALSE,ESP,GEO,12/8/2021,1680.44,1642
+5/9/2021,Switzerland,Italy,0,0,Switzerland,FALSE,SUI,ITA,12/8/2021,1621.37,1639
+5/9/2021,Belarus,Wales,2,3,Russia,TRUE,BLR,WAL,12/8/2021,1270.75,1191
+5/9/2021,Belgium,Czech Republic,3,0,Belgium,FALSE,BEL,CZE,12/8/2021,1822.34,1539
+5/9/2021,England,Andorra,4,0,England,FALSE,ENG,AND,12/8/2021,1752.83,1485
+5/9/2021,San Marino,Poland,1,7,San Marino,FALSE,SMR,POL,12/8/2021,802.43,1621
+5/9/2021,Germany,Armenia,6,0,Germany,FALSE,GER,ARM,12/8/2021,1613.29,1390
+5/9/2021,Ecuador,Chile,0,0,Ecuador,FALSE,ECU,CHI,12/8/2021,1405.26,1642
+5/9/2021,Uruguay,Bolivia,4,2,Uruguay,FALSE,URU,BOL,12/8/2021,1634.63,1628
+5/9/2021,Costa Rica,Mexico,0,1,Costa Rica,FALSE,CRC,MEX,12/8/2021,1449.79,1378
+5/9/2021,United States,Canada,1,1,United States,FALSE,USA,CAN,12/8/2021,1647.75,1550
+6/9/2021,Ivory Coast,Cameroon,2,1,Ivory Coast,FALSE,CIV,CMR,12/8/2021,1402.9,1489
+6/9/2021,South Africa,Ghana,1,0,South Africa,FALSE,RSA,GHA,12/8/2021,1337.77,1579
+7/9/2021,Luxembourg,Qatar,1,1,Luxembourg,FALSE,LUX,QAT,12/8/2021,1238.59,1368
+7/9/2021,Zambia,Tunisia,0,2,Zambia,FALSE,ZAM,TUN,12/8/2021,1276.14,1486
+7/9/2021,Congo,Senegal,1,3,Congo,FALSE,CGO,SEN,12/8/2021,1255.88,1413
+7/9/2021,South Korea,Lebanon,1,0,South Korea,FALSE,KOR,LBN,12/8/2021,1474.96,1439
+7/9/2021,Iraq,Iran,0,3,Qatar,TRUE,IRQ,IRN,12/8/2021,1354.51,1555
+7/9/2021,China PR,Japan,0,1,Qatar,TRUE,CHN,JPN,12/8/2021,1352.68,1112
+7/9/2021,Vietnam,Australia,0,1,Vietnam,FALSE,VIE,AUS,12/8/2021,1260.85,1324
+7/9/2021,Oman,Saudi Arabia,0,1,Oman,FALSE,OMA,KSA,12/8/2021,1305.01,1600
+7/9/2021,Republic of Ireland,Serbia,1,1,Republic of Ireland,FALSE,IRL,SRB,12/8/2021,1429.44,1602
+7/9/2021,Azerbaijan,Portugal,0,3,Azerbaijan,FALSE,AZE,POR,12/8/2021,1166.44,1305
+7/9/2021,France,Finland,2,0,France,FALSE,FRA,FIN,12/8/2021,1761.77,1603
+7/9/2021,Denmark,Israel,5,0,Denmark,FALSE,DEN,ISR,12/8/2021,1642.28,1612
+7/9/2021,Netherlands,Turkey,6,1,Netherlands,FALSE,NED,TUR,12/8/2021,1637.48,1773
+7/9/2021,Croatia,Slovenia,3,0,Croatia,FALSE,CRO,SVN,12/8/2021,1594.36,1593
+8/9/2021,Kosovo,Spain,0,2,Kosovo,FALSE,KOS,ESP,12/8/2021,1159.02,1567
+8/9/2021,Northern Ireland,Switzerland,0,0,Northern Ireland,FALSE,NIR,SUI,12/8/2021,1422.29,1653
+8/9/2021,Wales,Estonia,0,0,Wales,FALSE,WAL,EST,12/8/2021,1567.29,1418
+8/9/2021,Belarus,Belgium,0,1,Russia,TRUE,BLR,BEL,12/8/2021,1270.75,1550
+8/9/2021,Poland,England,1,1,Poland,FALSE,POL,ENG,12/8/2021,1516.27,1396
+8/9/2021,Iceland,Germany,0,4,Iceland,FALSE,ISL,GER,12/8/2021,1418.48,983
+8/9/2021,Costa Rica,Jamaica,1,1,Costa Rica,FALSE,CRC,JAM,12/8/2021,1449.79,1600
+8/9/2021,Panama,Mexico,1,1,Panama,FALSE,PAN,MEX,12/8/2021,1334.85,1642
+8/9/2021,Canada,El Salvador,3,0,Canada,FALSE,CAN,SLV,12/8/2021,1399.35,1305
+8/9/2021,Honduras,United States,1,4,Honduras,FALSE,HON,USA,12/8/2021,1377.79,1378
+9/9/2021,Uruguay,Ecuador,1,0,Uruguay,FALSE,URU,ECU,12/8/2021,1634.63,1482
+9/9/2021,Argentina,Bolivia,3,0,Argentina,FALSE,ARG,BOL,12/8/2021,1714.43,1389
+9/9/2021,Brazil,Peru,2,0,Brazil,FALSE,BRA,PER,12/8/2021,1797.67,1506
+6/10/2021,Morocco,Guinea-Bissau,5,0,Morocco,FALSE,MAR,GNB,16/09/21,1493.23,1623
+6/10/2021,Italy,Spain,1,2,Italy,FALSE,ITA,ESP,16/09/21,1735.73,1645
+7/10/2021,South Korea,Syria,2,1,South Korea,FALSE,KOR,SYR,16/09/21,1479.41,1712
+7/10/2021,United Arab Emirates,Iran,0,1,United Arab Emirates,FALSE,UAE,IRN,16/09/21,1357.84,1603
+7/10/2021,Saudi Arabia,Japan,1,0,Saudi Arabia,FALSE,KSA,JPN,16/09/21,1406.34,1426
+7/10/2021,Australia,Oman,3,1,Qatar,TRUE,AUS,OMA,16/09/21,1493.99,1773
+7/10/2021,Honduras,Costa Rica,0,0,Honduras,FALSE,HON,CRC,16/09/21,1371.61,1593
+7/10/2021,United States,Jamaica,2,0,United States,FALSE,USA,JAM,16/09/21,1643.1,1567
+7/10/2021,Mexico,Canada,1,1,Mexico,FALSE,MEX,CAN,16/09/21,1666.19,1744
+7/10/2021,Tunisia,Mauritania,3,0,Tunisia,FALSE,TUN,MTN,16/09/21,1526.87,1486
+7/10/2021,Ecuador,Bolivia,3,0,Ecuador,FALSE,ECU,BOL,16/09/21,1415.09,1550
+7/10/2021,Venezuela,Brazil,1,3,Venezuela,FALSE,VEN,BRA,16/09/21,1434.14,1589
+7/10/2021,Paraguay,Argentina,0,0,Paraguay,FALSE,PAR,ARG,16/09/21,1484.31,1558
+7/10/2021,Uruguay,Colombia,0,0,Uruguay,FALSE,URU,COL,16/09/21,1645.42,1402
+7/10/2021,Belgium,France,2,3,Italy,TRUE,BEL,FRA,16/09/21,1832.33,1446
+8/10/2021,Czech Republic,Wales,2,2,Czech Republic,FALSE,CZE,WAL,16/09/21,1494.78,1639
+8/10/2021,Latvia,Netherlands,0,1,Latvia,FALSE,LVA,NED,16/09/21,1092.45,1539
+8/10/2021,Cyprus,Croatia,0,3,Cyprus,FALSE,CYP,CRO,16/09/21,1202.65,1065
+8/10/2021,Germany,Romania,2,1,Germany,FALSE,GER,ROU,16/09/21,1627.8,1634
+8/10/2021,Cameroon,Mozambique,3,1,Cameroon,FALSE,CMR,MOZ,16/09/21,1404.46,1446
+9/10/2021,Luxembourg,Serbia,0,1,Luxembourg,FALSE,LUX,SRB,16/09/21,1244.55,1492
+9/10/2021,Switzerland,Northern Ireland,2,0,Switzerland,FALSE,SUI,NIR,16/09/21,1622.73,1467
+9/10/2021,Moldova,Denmark,0,4,Moldova,FALSE,MDA,DEN,16/09/21,940.3,1542
+9/10/2021,Andorra,England,0,5,Andorra,FALSE,AND,ENG,16/09/21,1033.27,1380
+9/10/2021,Poland,San Marino,5,0,Poland,FALSE,POL,SMR,16/09/21,1531.82,1476
+9/10/2021,Ghana,Zimbabwe,3,1,Ghana,FALSE,GHA,ZIM,16/09/21,1411.3,1391
+9/10/2021,Senegal,Namibia,4,1,Senegal,FALSE,SEN,NAM,16/09/21,1555.37,1317
+9/10/2021,Portugal,Qatar,3,0,Portugal,FALSE,POR,QAT,16/09/21,1674.9,1637
+9/10/2021,Morocco,Guinea-Bissau,3,0,Morocco,FALSE,MAR,GNB,16/09/21,1493.23,1493
+10/10/2021,Costa Rica,El Salvador,2,1,Costa Rica,FALSE,CRC,SLV,16/09/21,1438.29,1752
+10/10/2021,Jamaica,Canada,0,0,Jamaica,FALSE,JAM,CAN,16/09/21,1402.39,1634
+10/10/2021,Panama,United States,1,0,Panama,FALSE,PAN,USA,16/09/21,1358.77,1539
+10/10/2021,Mexico,Honduras,3,0,Mexico,FALSE,MEX,HON,16/09/21,1666.19,1639
+10/10/2021,Mauritania,Tunisia,0,0,Mauritania,FALSE,MTN,TUN,16/09/21,1200.6,1464
+10/10/2021,Colombia,Brazil,0,0,Colombia,FALSE,COL,BRA,16/09/21,1618.4,1438
+10/10/2021,Venezuela,Ecuador,2,1,Venezuela,FALSE,VEN,ECU,16/09/21,1434.14,1424
+10/10/2021,Argentina,Uruguay,3,0,Argentina,FALSE,ARG,URU,16/09/21,1725.31,1568
+10/10/2021,Italy,Belgium,2,1,Italy,FALSE,ITA,BEL,16/09/21,1735.73,1669
+10/10/2021,Spain,France,1,2,Italy,TRUE,ESP,FRA,16/09/21,1673.68,1461
+11/10/2021,Estonia,Wales,0,1,Estonia,FALSE,EST,WAL,16/09/21,1174.44,1489
+11/10/2021,Netherlands,Gibraltar,6,0,Netherlands,FALSE,NED,GIB,16/09/21,1648.2,1467
+11/10/2021,Croatia,Slovakia,2,2,Croatia,FALSE,CRO,SVK,16/09/21,1608.25,1317
+11/10/2021,North Macedonia,Germany,0,4,North Macedonia,FALSE,MKD,GER,16/09/21,1345.47,1661
+11/10/2021,Mozambique,Cameroon,0,1,Morocco,TRUE,MOZ,CMR,16/09/21,1158.59,1558
+12/10/2021,Iran,South Korea,1,1,Iran,FALSE,IRN,KOR,16/09/21,1538.08,1607
+12/10/2021,Japan,Australia,2,1,Japan,FALSE,JPN,AUS,16/09/21,1520.46,1539
+12/10/2021,Saudi Arabia,China PR,3,2,Saudi Arabia,FALSE,KSA,CHN,16/09/21,1406.34,1625
+12/10/2021,Portugal,Luxembourg,5,0,Portugal,FALSE,POR,LUX,16/09/21,1674.9,1391
+12/10/2021,Serbia,Azerbaijan,3,1,Serbia,FALSE,SRB,AZE,16/09/21,1515.97,1438
+12/10/2021,Lithuania,Switzerland,0,4,Lithuania,FALSE,LTU,SUI,16/09/21,1082.2,1631
+12/10/2021,Denmark,Austria,1,0,Denmark,FALSE,DEN,AUT,16/09/21,1658.49,1636
+12/10/2021,England,Hungary,1,1,England,FALSE,ENG,HUN,16/09/21,1755.44,1725
+12/10/2021,Albania,Poland,0,1,Albania,FALSE,ALB,POL,16/09/21,1368.73,1596
+12/10/2021,Zimbabwe,Ghana,0,1,Zimbabwe,FALSE,ZIM,GHA,16/09/21,1160.91,1461
+12/10/2021,Namibia,Senegal,1,3,South Africa,TRUE,NAM,SEN,16/09/21,1185.12,1610
+12/10/2021,Republic of Ireland,Qatar,4,0,Republic of Ireland,FALSE,IRL,QAT,16/09/21,1418.7,1480
+12/10/2021,Morocco,Guinea,4,1,Morocco,FALSE,MAR,GUI,16/09/21,1493.23,1402
+13/10/21,United States,Costa Rica,2,1,United States,FALSE,USA,CRC,16/09/21,1643.1,920
+13/10/21,Canada,Panama,4,1,Canada,FALSE,CAN,PAN,16/09/21,1416.23,1346
+13/10/21,El Salvador,Mexico,0,2,El Salvador,FALSE,SLV,MEX,16/09/21,1369.73,1495
+14/10/21,Colombia,Ecuador,0,0,Colombia,FALSE,COL,ECU,16/09/21,1618.4,1495
+14/10/21,Argentina,Peru,1,0,Argentina,FALSE,ARG,PER,16/09/21,1725.31,1201
+14/10/21,Brazil,Uruguay,4,1,Brazil,FALSE,BRA,URU,16/09/21,1811.73,1235
+27/10/21,Mexico,Ecuador,2,3,United States,TRUE,MEX,ECU,21/10/21,1672.92,1180
+11/11/2021,Serbia,Qatar,4,0,Serbia,FALSE,SRB,QAT,21/10/21,1527.34,1456
+11/11/2021,Ethiopia,Ghana,1,1,South Africa,TRUE,ETH,GHA,21/10/21,1079.37,1521
+11/11/2021,Togo,Senegal,1,1,Togo,FALSE,TOG,SEN,21/10/21,1110.59,1562
+11/11/2021,Lebanon,Iran,1,2,Lebanon,FALSE,LBN,IRN,21/10/21,1250.08,1609
+11/11/2021,South Korea,United Arab Emirates,1,0,South Korea,FALSE,KOR,UAE,21/10/21,1489.1,1617
+11/11/2021,Vietnam,Japan,0,1,Vietnam,FALSE,VIE,JPN,21/10/21,1222.9,1465
+11/11/2021,Australia,Saudi Arabia,0,0,Australia,FALSE,AUS,KSA,21/10/21,1489.86,1057
+11/11/2021,Republic of Ireland,Portugal,0,0,Republic of Ireland,FALSE,IRL,POR,21/10/21,1430.59,1437
+11/11/2021,Greece,Spain,0,1,Greece,FALSE,GRE,ESP,21/10/21,1434.83,983
+11/11/2021,Malta,Croatia,1,7,Malta,FALSE,MLT,CRO,21/10/21,964.21,1413
+11/11/2021,Germany,Liechtenstein,9,0,Germany,FALSE,GER,LIE,21/10/21,1642.47,1593
+11/11/2021,Ecuador,Venezuela,1,0,Ecuador,FALSE,ECU,VEN,21/10/21,1416.93,1614
+11/11/2021,Brazil,Colombia,1,0,Brazil,FALSE,BRA,COL,21/10/21,1820.36,810
+12/11/2021,Morocco,Sudan,3,0,Morocco,FALSE,MAR,SDN,21/10/21,1513,1559
+12/11/2021,Canada,Costa Rica,1,0,Canada,FALSE,CAN,CRC,21/10/21,1432.34,1438
+12/11/2021,United States,Mexico,2,0,United States,FALSE,USA,MEX,21/10/21,1639.42,1424
+12/11/2021,Italy,Switzerland,1,1,Italy,FALSE,ITA,SUI,21/10/21,1750.52,1503
+12/11/2021,Denmark,Faroe Islands,3,1,Denmark,FALSE,DEN,FRO,21/10/21,1668.98,1481
+12/11/2021,England,Albania,5,0,England,FALSE,ENG,ALB,21/10/21,1750.16,1427
+12/11/2021,Andorra,Poland,1,4,Andorra,FALSE,AND,POL,21/10/21,1038.88,1558
+12/11/2021,Uruguay,Argentina,0,1,Uruguay,FALSE,URU,ARG,21/10/21,1625.67,1427
+13/11/21,Equatorial Guinea,Tunisia,1,0,Equatorial Guinea,FALSE,EQG,TUN,21/10/21,1135.52,1180
+13/11/21,Malawi,Cameroon,0,4,South Africa,TRUE,MWI,CMR,21/10/21,1146.25,1632
+13/11/21,France,Kazakhstan,8,0,France,FALSE,FRA,KAZ,21/10/21,1779.24,1662
+13/11/21,Wales,Belarus,5,1,Wales,FALSE,WAL,BLR,21/10/21,1566.77,1780
+13/11/21,Belgium,Estonia,3,1,Belgium,FALSE,BEL,EST,21/10/21,1832.33,1082
+13/11/21,Montenegro,Netherlands,2,2,Montenegro,FALSE,MNE,NED,21/10/21,1346.19,1224
+14/11/21,Azerbaijan,Qatar,2,2,Azerbaijan,FALSE,AZE,QAT,21/10/21,1146.87,1548
+14/11/21,Ghana,South Africa,1,0,Ghana,FALSE,GHA,RSA,21/10/21,1424.87,1645
+14/11/21,Senegal,Congo,2,0,Senegal,FALSE,SEN,CGO,21/10/21,1564.95,1114
+14/11/21,Portugal,Serbia,1,2,Portugal,FALSE,POR,SRB,21/10/21,1681.73,1755
+14/11/21,Spain,Sweden,1,0,Spain,FALSE,ESP,SWE,21/10/21,1687.66,950
+14/11/21,Croatia,Russia,1,0,Croatia,FALSE,CRO,RUS,21/10/21,1608.84,1670
+14/11/21,Armenia,Germany,1,4,Armenia,FALSE,ARM,GER,21/10/21,1257.17,1048
+15/11/21,Switzerland,Bulgaria,4,0,Switzerland,FALSE,SUI,BUL,21/10/21,1633.8,1610
+15/11/21,Scotland,Denmark,2,0,Scotland,FALSE,SCO,DEN,21/10/21,1451.37,914
+15/11/21,Poland,Hungary,1,2,Poland,FALSE,POL,HUN,21/10/21,1542.2,1097
+15/11/21,San Marino,England,0,10,San Marino,FALSE,SMR,ENG,21/10/21,782.71,1307
+16/11/21,Tunisia,Zambia,3,1,Tunisia,FALSE,TUN,ZAM,21/10/21,1525.3,1332
+16/11/21,Cameroon,Ivory Coast,1,0,Cameroon,FALSE,CMR,CIV,21/10/21,1418.21,1632
+16/11/21,Morocco,Guinea,3,0,Morocco,FALSE,MAR,GUI,21/10/21,1513,1313
+16/11/21,Iraq,South Korea,0,3,Qatar,TRUE,IRQ,KOR,21/10/21,1346.2,1391
+16/11/21,Syria,Iran,0,3,Jordan,TRUE,SYR,IRN,21/10/21,1274.72,1492
+16/11/21,China PR,Australia,1,1,United Arab Emirates,TRUE,CHN,AUS,21/10/21,1334.2,1662
+16/11/21,Vietnam,Saudi Arabia,0,1,Vietnam,FALSE,VIE,KSA,21/10/21,1222.9,1456
+16/11/21,Oman,Japan,0,1,Oman,FALSE,OMA,JPN,21/10/21,1314.36,1269
+16/11/21,Jamaica,United States,1,1,Jamaica,FALSE,JAM,USA,21/10/21,1407.72,1609
+16/11/21,Canada,Mexico,2,1,Canada,FALSE,CAN,MEX,21/10/21,1432.34,951
+16/11/21,Costa Rica,Honduras,2,1,Costa Rica,FALSE,CRC,HON,21/10/21,1439.61,1206
+16/11/21,Finland,France,0,2,Finland,FALSE,FIN,FRA,21/10/21,1403.96,906
+16/11/21,Wales,Belgium,1,1,Wales,FALSE,WAL,BEL,21/10/21,1566.77,1078
+16/11/21,Netherlands,Norway,2,0,Netherlands,FALSE,NED,NOR,21/10/21,1652.01,1103
+16/11/21,Bolivia,Uruguay,3,0,Bolivia,FALSE,BOL,URU,21/10/21,1309.75,1040
+16/11/21,Argentina,Brazil,0,0,Argentina,FALSE,ARG,BRA,21/10/21,1738.79,1411
+16/11/21,Chile,Ecuador,0,2,Chile,FALSE,CHI,ECU,21/10/21,1546.26,1155
+4/12/2021,El Salvador,Ecuador,1,1,United States,TRUE,SLV,ECU,19/11/21,1350.63,1755
+8/12/2021,Mexico,Chile,2,2,United States,TRUE,MEX,CHI,19/11/21,1638.76,1614
+18/12/21,United States,Bosnia and Herzegovina,1,0,United States,FALSE,USA,BIH,19/11/21,1647.14,1559
+5/1/2022,Algeria,Ghana,3,0,Qatar,TRUE,ALG,GHA,23/12/21,1516.51,1362
+9/1/2022,Cameroon,Burkina Faso,2,1,Cameroon,FALSE,CMR,BFA,23/12/21,1437.35,1415.99
+10/1/2022,Senegal,Zimbabwe,1,0,Cameroon,TRUE,SEN,ZIM,23/12/21,1561.68,1555.42
+10/1/2022,Morocco,Ghana,1,0,Cameroon,TRUE,MAR,GHA,23/12/21,1529.93,1273.28
+12/1/2022,Tunisia,Mali,0,1,Cameroon,TRUE,TUN,MLI,23/12/21,1512.72,1462.65
+13/01/22,Cameroon,Ethiopia,4,1,Cameroon,FALSE,CMR,ETH,23/12/21,1437.35,1523.42
+14/01/22,Senegal,Guinea,0,0,Cameroon,TRUE,SEN,GUI,23/12/21,1561.68,1570.36
+14/01/22,Morocco,Comoros,2,0,Cameroon,TRUE,MAR,COM,23/12/21,1529.93,1631.55
+14/01/22,Gabon,Ghana,1,1,Cameroon,TRUE,GAB,GHA,23/12/21,1262,1441.43
+15/01/22,South Korea,Iceland,5,1,Turkey,TRUE,KOR,ISL,23/12/21,1507.24,1418.7
+16/01/22,Tunisia,Mauritania,4,0,Cameroon,TRUE,TUN,MTN,23/12/21,1512.72,911.05
+17/01/22,Cameroon,Cape Verde,1,1,Cameroon,FALSE,CMR,CPV,23/12/21,1437.35,1072
+18/01/22,Malawi,Senegal,0,0,Cameroon,TRUE,MWI,SEN,23/12/21,1127.21,1476.02
+18/01/22,Gabon,Morocco,2,2,Cameroon,TRUE,GAB,MAR,23/12/21,1262,1569.52
+18/01/22,Ghana,Comoros,2,3,Cameroon,TRUE,GHA,COM,23/12/21,1428.97,1457.49
+20/01/22,South Korea,Moldova,4,0,Turkey,TRUE,KOR,MDA,23/12/21,1507.24,1184.36
+20/01/22,Gambia,Tunisia,1,0,Cameroon,TRUE,GAM,TUN,23/12/21,1049.74,1404.87
+23/01/22,Nigeria,Tunisia,0,1,Cameroon,TRUE,NGA,TUN,23/12/21,1478.78,1666.12
+24/01/22,Cameroon,Comoros,2,1,Cameroon,FALSE,CMR,COM,23/12/21,1437.35,1413.01
+25/01/22,Morocco,Malawi,2,1,Cameroon,TRUE,MAR,MWI,23/12/21,1529.93,1280.15
+25/01/22,Senegal,Cape Verde,2,0,Cameroon,TRUE,SEN,CPV,23/12/21,1561.68,1376.65
+27/01/22,Jamaica,Mexico,1,2,Jamaica,FALSE,JAM,MEX,23/12/21,1412.13,1362.09
+27/01/22,United States,El Salvador,1,0,United States,FALSE,USA,SLV,23/12/21,1648.51,1070.54
+27/01/22,Honduras,Canada,0,2,Honduras,FALSE,HON,CAN,23/12/21,1332.16,1106.51
+27/01/22,Costa Rica,Panama,1,0,Costa Rica,FALSE,CRC,PAN,23/12/21,1437.43,1340.56
+27/01/22,Lebanon,South Korea,0,1,Lebanon,FALSE,LBN,KOR,23/12/21,1233,1605.75
+27/01/22,Iran,Iraq,1,0,Iran,FALSE,IRN,IRQ,23/12/21,1557.58,1404.87
+27/01/22,Japan,China PR,2,0,Japan,FALSE,JPN,CHN,23/12/21,1531.53,1449.23
+27/01/22,Australia,Vietnam,4,0,Australia,FALSE,AUS,VIE,23/12/21,1484.88,1259.51
+27/01/22,Saudi Arabia,Oman,1,0,Saudi Arabia,FALSE,KSA,OMA,23/12/21,1434.71,1081.66
+27/01/22,Ecuador,Brazil,1,1,Ecuador,FALSE,ECU,BRA,23/12/21,1448.27,1432.65
+27/01/22,Paraguay,Uruguay,0,1,Paraguay,FALSE,PAR,URU,23/12/21,1454.52,1078.48
+27/01/22,Chile,Argentina,1,2,Chile,FALSE,CHI,ARG,23/12/21,1543.42,1151.1
+29/01/22,Burkina Faso,Tunisia,1,0,Cameroon,TRUE,BFA,TUN,23/12/21,1397.64,1499.52
+29/01/22,Cameroon,Gambia,2,0,Cameroon,FALSE,CMR,GAM,23/12/21,1437.35,1301.51
+30/01/22,Egypt,Morocco,2,1,Cameroon,TRUE,EGY,MAR,23/12/21,1451.77,1487.16
+30/01/22,Senegal,Equatorial Guinea,3,1,Cameroon,TRUE,SEN,EQG,23/12/21,1561.68,1339.03
+30/01/22,Canada,United States,2,0,Canada,FALSE,CAN,USA,23/12/21,1462.32,1425.26
+30/01/22,Mexico,Costa Rica,0,0,Mexico,FALSE,MEX,CRC,23/12/21,1638.3,1415.99
+1/2/2022,Iran,United Arab Emirates,1,0,Iran,FALSE,IRN,UAE,23/12/21,1557.58,1330.16
+1/2/2022,Syria,South Korea,0,2,United Arab Emirates,TRUE,SYR,KOR,23/12/21,1268.54,1102.84
+1/2/2022,Japan,Saudi Arabia,2,0,Japan,FALSE,JPN,KSA,23/12/21,1531.53,1089.43
+1/2/2022,Oman,Australia,2,2,Oman,FALSE,OMA,AUS,23/12/21,1306.01,1511.88
+1/2/2022,Uruguay,Venezuela,4,1,Uruguay,FALSE,URU,VEN,23/12/21,1596.66,1641.95
+1/2/2022,Argentina,Colombia,1,0,Argentina,FALSE,ARG,COL,23/12/21,1750.51,1639.08
+1/2/2022,Peru,Ecuador,1,1,Peru,FALSE,PER,ECU,23/12/21,1551.15,1742.65
+1/2/2022,Brazil,Paraguay,4,0,Brazil,FALSE,BRA,PAR,23/12/21,1826.35,1283.36
+2/2/2022,Burkina Faso,Senegal,1,3,Cameroon,TRUE,BFA,SEN,23/12/21,1397.64,1423.4
+2/2/2022,United States,Honduras,3,0,United States,FALSE,USA,HON,23/12/21,1648.51,853.07
+2/2/2022,Jamaica,Costa Rica,0,1,Jamaica,FALSE,JAM,CRC,23/12/21,1412.13,1457.49
+2/2/2022,El Salvador,Canada,0,2,El Salvador,FALSE,SLV,CAN,23/12/21,1349.47,1499.52
+2/2/2022,Mexico,Panama,1,0,Mexico,FALSE,MEX,PAN,23/12/21,1638.3,1486.69
+3/2/2022,Cameroon,Egypt,0,0,Cameroon,FALSE,CMR,EGY,23/12/21,1437.35,1020.27
+5/2/2022,Cameroon,Burkina Faso,3,3,Cameroon,FALSE,CMR,BFA,23/12/21,1437.35,1340.56
+6/2/2022,Senegal,Egypt,0,0,Cameroon,TRUE,SEN,EGY,23/12/21,1561.68,1397.77
+24/03/22,Mexico,United States,0,0,Mexico,FALSE,MEX,USA,10/2/2022,1647.9,1361.21
+24/03/22,Costa Rica,Canada,1,0,Costa Rica,FALSE,CRC,CAN,10/2/2022,1464.06,1392.9
+24/03/22,South Korea,Iran,2,0,South Korea,FALSE,KOR,IRN,10/2/2022,1522.85,1606.21
+24/03/22,China PR,Saudi Arabia,1,1,United Arab Emirates,TRUE,CHN,KSA,10/2/2022,1313.81,1410.82
+24/03/22,Australia,Japan,0,2,Australia,FALSE,AUS,JPN,10/2/2022,1486.86,1783.38
+24/03/22,Brazil,Chile,4,0,Brazil,FALSE,BRA,CHI,10/2/2022,1823.42,1256.08
+24/03/22,Paraguay,Ecuador,3,1,Paraguay,FALSE,PAR,ECU,10/2/2022,1440.53,1514.64
+24/03/22,Uruguay,Peru,1,0,Uruguay,FALSE,URU,PER,10/2/2022,1614.05,1605.75
+24/03/22,Portugal,Turkey,3,1,Portugal,FALSE,POR,TUR,10/2/2022,1660.25,1500.71
+24/03/22,Wales,Austria,2,1,Wales,FALSE,WAL,AUT,10/2/2022,1578.01,1413.01
+24/03/22,Hungary,Serbia,0,1,Hungary,FALSE,HUN,SRB,10/2/2022,1465.62,1475.24
+24/03/22,Scotland,Poland,1,1,Scotland,FALSE,SCO,POL,10/2/2022,1471.82,1569.81
+25/03/22,Cameroon,Algeria,0,1,Cameroon,FALSE,CMR,ALG,10/2/2022,1480.82,1569.52
+25/03/22,DR Congo,Morocco,1,1,DR Congo,FALSE,COD,MAR,10/2/2022,1369.53,1251.63
+25/03/22,Egypt,Senegal,1,0,Egypt,FALSE,EGY,SEN,10/2/2022,1497.05,1352.82
+25/03/22,Ghana,Nigeria,0,0,Ghana,FALSE,GHA,NGA,10/2/2022,1381.45,1280.99
+25/03/22,Mali,Tunisia,0,1,Mali,FALSE,MLI,TUN,10/2/2022,1446.49,1290.62
+25/03/22,Argentina,Venezuela,3,0,Argentina,FALSE,ARG,VEN,10/2/2022,1766.99,1400.94
+25/03/22,France,Ivory Coast,2,1,France,FALSE,FRA,CIV,10/2/2022,1786.15,1666.12
+26/03/22,Croatia,Slovenia,1,1,Qatar,TRUE,CRO,SVN,10/2/2022,1620.74,1757.3
+26/03/22,England,Switzerland,2,1,England,FALSE,ENG,SUI,10/2/2022,1755.52,1570.36
+26/03/22,Germany,Israel,2,0,Germany,FALSE,GER,ISR,10/2/2022,1648.33,1606.21
+26/03/22,Netherlands,Denmark,4,2,Netherlands,FALSE,NED,DEN,10/2/2022,1653.73,1783.38
+26/03/22,Qatar,Bulgaria,2,1,Qatar,FALSE,QAT,BUL,10/2/2022,1437.91,1523.42
+26/03/22,Republic of Ireland,Belgium,2,2,Republic of Ireland,FALSE,IRL,BEL,10/2/2022,1444.29,1511.88
+26/03/22,Spain,Albania,2,1,Spain,FALSE,ESP,ALB,10/2/2022,1704.75,1458.81
+27/03/22,El Salvador,Costa Rica,1,2,El Salvador,FALSE,SLV,CRC,10/2/2022,1346.04,1441.43
+27/03/22,Canada,Jamaica,4,0,Canada,FALSE,CAN,JAM,10/2/2022,1497.82,1639.08
+27/03/22,Honduras,Mexico,0,1,Honduras,FALSE,HON,MEX,10/2/2022,1303.96,1549.87
+27/03/22,United States,Panama,5,1,United States,FALSE,USA,PAN,10/2/2022,1643.34,1757.3
+29/03/22,Algeria,Cameroon,1,2,Algeria,FALSE,ALG,CMR,10/2/2022,1460.93,1666.12
+29/03/22,Morocco,DR Congo,4,1,Morocco,FALSE,MAR,COD,10/2/2022,1547.42,1570.36
+29/03/22,Nigeria,Ghana,1,1,Nigeria,FALSE,NGA,GHA,10/2/2022,1509.91,1505.05
+29/03/22,Senegal,Egypt,1,0,Senegal,FALSE,SEN,EGY,10/2/2022,1587.78,1413.01
+29/03/22,Tunisia,Mali,0,0,Tunisia,FALSE,TUN,MLI,10/2/2022,1489.92,1462.65
+29/03/22,Iran,Lebanon,2,0,Iran,FALSE,IRN,LBN,10/2/2022,1572.89,1783.38
+29/03/22,United Arab Emirates,South Korea,1,0,United Arab Emirates,FALSE,UAE,KOR,10/2/2022,1353.1,1374.73
+29/03/22,Japan,Vietnam,1,1,Japan,FALSE,JPN,VIE,10/2/2022,1549.82,1569.52
+29/03/22,Saudi Arabia,Australia,1,0,Saudi Arabia,FALSE,KSA,AUS,10/2/2022,1433.95,1476.02
+29/03/22,Ecuador,Argentina,1,1,Ecuador,FALSE,ECU,ARG,10/2/2022,1458.63,1605.75
+29/03/22,Bolivia,Brazil,0,4,Bolivia,FALSE,BOL,BRA,10/2/2022,1308.12,1458.81
+29/03/22,Chile,Uruguay,0,2,Chile,FALSE,CHI,URU,10/2/2022,1543.16,1475.24
+29/03/22,Poland,Sweden,2,0,Poland,FALSE,POL,SWE,10/2/2022,1530.62,1549.87
+29/03/22,Portugal,North Macedonia,2,0,Portugal,FALSE,POR,MKD,10/2/2022,1660.25,1468.75
+29/03/22,Belgium,Burkina Faso,3,0,Belgium,FALSE,BEL,BFA,10/2/2022,1828.45,1757.3
+29/03/22,Croatia,Bulgaria,2,1,Qatar,TRUE,CRO,BUL,10/2/2022,1620.74,1511.88
+29/03/22,Denmark,Serbia,3,0,Denmark,FALSE,DEN,SRB,10/2/2022,1654.54,1600.66
+29/03/22,England,Ivory Coast,3,0,England,FALSE,ENG,CIV,10/2/2022,1755.52,1639.08
+29/03/22,France,South Africa,5,0,Algeria,TRUE,FRA,RSA,10/2/2022,1786.15,1631.55
+29/03/22,Netherlands,Germany,1,1,Netherlands,FALSE,NED,GER,10/2/2022,1653.73,1458.81
+29/03/22,Qatar,Slovenia,0,0,Qatar,FALSE,QAT,SVN,10/2/2022,1437.91,1666.12
+29/03/22,Spain,Iceland,5,0,Spain,FALSE,ESP,ISL,10/2/2022,1704.75,1413.01
+29/03/22,Switzerland,Kosovo,1,1,Switzerland,FALSE,SUI,KOS,10/2/2022,1642.83,1648.13
+29/03/22,Wales,Czech Republic,1,1,Wales,FALSE,WAL,CZE,10/2/2022,1578.01,1606.21
+30/03/22,Mexico,El Salvador,2,0,Mexico,FALSE,MEX,SLV,10/2/2022,1647.9,1300.11
+30/03/22,Costa Rica,United States,2,0,Costa Rica,FALSE,CRC,USA,10/2/2022,1464.06,1476.02
+30/03/22,Panama,Canada,1,0,Panama,FALSE,PAN,CAN,10/2/2022,1375.56,1609.12
+27/04/22,Mexico,Guatemala,0,0,United States,TRUE,MEX,GUA,31/03/22,1658.82,1321.97
+28/05/22,Mexico,Nigeria,2,1,United States,TRUE,MEX,NGA,31/03/22,1658.82,1648.13
+1/6/2022,Ghana,Madagascar,3,0,Ghana,FALSE,GHA,MAD,31/03/22,1387.36,1642.06
+1/6/2022,Poland,Wales,2,1,Poland,FALSE,POL,WAL,31/03/22,1544.2,1569.52
+1/6/2022,Australia,Jordan,2,1,Qatar,TRUE,AUS,JOR,31/03/22,1462.29,1631.55
+1/6/2022,United States,Morocco,3,0,United States,FALSE,USA,MAR,31/03/22,1633.72,1686.78
+2/6/2022,Tunisia,Equatorial Guinea,4,0,Tunisia,FALSE,TUN,EQG,31/03/22,1499.8,1487.16
+2/6/2022,Czech Republic,Switzerland,2,1,Czech Republic,FALSE,CZE,SUI,31/03/22,1500.62,1600.66
+2/6/2022,Spain,Portugal,1,1,Spain,FALSE,ESP,POR,31/03/22,1709.19,1413.01
+2/6/2022,Serbia,Norway,0,1,Serbia,FALSE,SRB,NOR,31/03/22,1547.53,1341.24
+2/6/2022,Ecuador,Nigeria,1,0,United States,TRUE,ECU,NGA,31/03/22,1452.63,1511.88
+2/6/2022,Japan,Paraguay,4,1,Japan,FALSE,JPN,PAR,31/03/22,1553.44,1600.66
+2/6/2022,South Korea,Brazil,1,5,South Korea,FALSE,KOR,BRA,31/03/22,1519.54,1648.13
+2/6/2022,Mexico,Uruguay,0,3,United States,TRUE,MEX,URU,31/03/22,1658.82,1631.55
+3/6/2022,Croatia,Austria,0,3,Croatia,FALSE,CRO,AUT,31/03/22,1621.11,1641.95
+3/6/2022,France,Denmark,1,2,France,FALSE,FRA,DEN,31/03/22,1789.85,1642.06
+3/6/2022,Belgium,Netherlands,1,4,Belgium,FALSE,BEL,NED,31/03/22,1827,1449.79
+4/6/2022,Senegal,Benin,3,1,Senegal,FALSE,SEN,BEN,31/03/22,1584.16,1567.29
+4/6/2022,Hungary,England,1,0,Hungary,FALSE,HUN,ENG,31/03/22,1466.08,1507.19
+4/6/2022,Italy,Germany,1,1,Italy,FALSE,ITA,GER,31/03/22,1723.31,1427.04
+5/6/2022,Wales,Ukraine,1,0,Wales,FALSE,WAL,UKR,31/03/22,1588.08,1105.62
+5/6/2022,Central African Republic,Ghana,1,1,Angola,TRUE,CTA,GHA,31/03/22,1122.08,1429.44
+5/6/2022,Botswana,Tunisia,0,0,Botswana,FALSE,BOT,TUN,31/03/22,1051.59,1401.57
+5/6/2022,Portugal,Switzerland,4,0,Portugal,FALSE,POR,SUI,31/03/22,1674.78,1424.77
+5/6/2022,Czech Republic,Spain,2,2,Czech Republic,FALSE,CZE,ESP,31/03/22,1500.62,1637.48
+5/6/2022,Serbia,Slovenia,4,1,Serbia,FALSE,SRB,SVN,31/03/22,1547.53,1594.36
+5/6/2022,Argentina,Estonia,5,0,Spain,TRUE,ARG,EST,31/03/22,1765.13,1147.87
+5/6/2022,Mexico,Ecuador,0,0,United States,TRUE,MEX,ECU,31/03/22,1658.82,1354.51
+5/6/2022,Saudi Arabia,Colombia,0,1,Spain,TRUE,KSA,COL,31/03/22,1444.69,1302.75
+5/6/2022,United States,Uruguay,0,0,United States,FALSE,USA,URU,31/03/22,1633.72,1305.01
+6/6/2022,Austria,Denmark,1,2,Austria,FALSE,AUT,DEN,31/03/22,1500.37,1352.68
+6/6/2022,Croatia,France,1,1,Croatia,FALSE,CRO,FRA,31/03/22,1621.11,1260.85
+6/6/2022,South Korea,Chile,2,0,South Korea,FALSE,KOR,CHI,31/03/22,1519.54,1680.44
+6/6/2022,Japan,Brazil,0,1,Japan,FALSE,JPN,BRA,31/03/22,1553.44,1822.34
+7/6/2022,Senegal,Rwanda,1,0,Senegal,FALSE,SEN,RWA,31/03/22,1584.16,1752.83
+7/6/2022,Germany,England,1,1,Germany,FALSE,GER,ENG,31/03/22,1650.53,1359.83
+8/6/2022,Wales,Netherlands,1,2,Wales,FALSE,WAL,NED,31/03/22,1588.08,1613.29
+8/6/2022,Belgium,Poland,6,1,Belgium,FALSE,BEL,POL,31/03/22,1827,1483.49
+9/6/2022,Burundi,Cameroon,0,1,Tanzania,TRUE,BDI,CMR,31/03/22,1080.62,1634.63
+9/6/2022,Morocco,South Africa,2,1,Morocco,FALSE,MAR,RSA,31/03/22,1551.88,1714.43
+9/6/2022,Portugal,Czech Republic,2,0,Portugal,FALSE,POR,CZE,31/03/22,1674.78,1797.67
+9/6/2022,Switzerland,Spain,0,1,Switzerland,FALSE,SUI,ESP,31/03/22,1635.32,1377.79
+9/6/2022,Sweden,Serbia,0,1,Sweden,FALSE,SWE,SRB,31/03/22,1584.77,1647.75
+9/6/2022,Saudi Arabia,Venezuela,0,1,Spain,TRUE,KSA,VEN,31/03/22,1444.69,1449.79
+10/6/2022,Austria,France,1,1,Austria,FALSE,AUT,FRA,31/03/22,1500.37,1423.06
+10/6/2022,Denmark,Croatia,0,1,Denmark,FALSE,DEN,CRO,31/03/22,1653.6,1105.2
+10/6/2022,South Korea,Paraguay,2,2,South Korea,FALSE,KOR,PAR,31/03/22,1519.54,1153.5
+11/6/2022,England,Italy,0,0,England,FALSE,ENG,ITA,31/03/22,1761.71,1079.41
+11/6/2022,Hungary,Germany,1,1,Hungary,FALSE,HUN,GER,31/03/22,1466.08,1661.51
+11/6/2022,Wales,Belgium,1,1,Wales,FALSE,WAL,BEL,31/03/22,1588.08,1238.59
+11/6/2022,Netherlands,Poland,2,2,Netherlands,FALSE,NED,POL,31/03/22,1658.66,1761.77
+11/6/2022,Ecuador,Cape Verde,1,0,United States,TRUE,ECU,CPV,31/03/22,1452.63,1642.28
+11/6/2022,Uruguay,Panama,5,0,Uruguay,FALSE,URU,PAN,31/03/22,1635.73,1363.03
+12/6/2022,Spain,Czech Republic,2,0,Spain,FALSE,ESP,CZE,31/03/22,1709.19,1594.36
+12/6/2022,Switzerland,Portugal,1,0,Switzerland,FALSE,SUI,POR,31/03/22,1635.32,1264.06
+12/6/2022,Slovenia,Serbia,2,2,Slovenia,FALSE,SVN,SRB,31/03/22,1378.23,1744.67
+12/6/2022,Iran,Algeria,1,2,Qatar,TRUE,IRN,ALG,31/03/22,1564.49,1567.29
+13/06/22,Australia,Peru,0,0,Qatar,TRUE,AUS,PER,31/03/22,1462.29,1492.65
+13/06/22,Morocco,Liberia,2,0,Morocco,FALSE,MAR,LBR,31/03/22,1551.88,1031.64
+13/06/22,Denmark,Austria,2,0,Denmark,FALSE,DEN,AUT,31/03/22,1653.6,1516.27
+13/06/22,France,Croatia,0,1,France,FALSE,FRA,CRO,31/03/22,1789.85,1273.67
+14/06/22,Costa Rica,New Zealand,1,0,Qatar,TRUE,CRC,NZL,31/03/22,1503.09,1557.81
+14/06/22,England,Hungary,0,4,England,FALSE,ENG,HUN,31/03/22,1761.71,1285.94
+14/06/22,Germany,Italy,5,2,Germany,FALSE,GER,ITA,31/03/22,1650.53,1658.29
+14/06/22,Netherlands,Wales,3,2,Netherlands,FALSE,NED,WAL,31/03/22,1658.66,1399.35
+14/06/22,Poland,Belgium,0,1,Poland,FALSE,POL,BEL,31/03/22,1544.2,1410.65
+14/06/22,South Korea,Egypt,4,1,South Korea,FALSE,KOR,EGY,31/03/22,1519.54,1420.61
